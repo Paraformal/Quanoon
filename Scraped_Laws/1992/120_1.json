@@ -1,0 +1,43 @@
+{
+  "url": "http://77.42.251.205/LawView.aspx?opt=view&LawID=195486",
+  "title": "تصحيح في لائحة المواد الفعالة المرفقة بالقرار رقم 107/1\r\nتاريخ 27/7/1992 (منع استيراد بعض  الادوية الزراعية)",
+  "metadata": {
+    "type": "تعريف النص: قرار",
+    "number": "120",
+    "date": " 02/09/1992",
+    "oj_number": "47",
+    "oj_publish_date": "19/11/1992",
+    "oj_page": "1144-1145"
+  },
+  "preamble": "",
+  "articles": [
+    {
+      "number": "3 \r\nمادة 3:\r\nينشر هذا القرار ويبلغ من يلزم.",
+      "content": [
+        {
+          "type": "text",
+          "data": "مادة 1:\r\nيقرأ في اللائحة المرفقة بالقرار رقم 108/1 تاريخ 27/7/1992\r\nما يلي:\r\nARSENIQUE OXYDE بدلا من ARSENIOUS OXYDE-CARBOPHENOTHION\r\nبعد CHLORDANE-COPPER ACETOARSENATE\r\nبدلا من COPPER ACETOARSENITE-D.D.T.\r\nبعد DECHLORANE\r\nوالباقي دون اي تعديل."
+        }
+      ]
+    },
+    {
+      "number": "1",
+      "content": [
+        {
+          "type": "text",
+          "data": "مادة 2:\r\nتلغى الفقرة 10 من المادة الثالثة من القرار رقم 108/1\r\nتاريخ 17/7/1992"
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "content": [
+        {
+          "type": "text",
+          "data": "مادة 3:\r\nينشر هذا القرار ويبلغ من يلزم."
+        }
+      ]
+    }
+  ],
+  "signature": "بيروت  في 2/9/1992\nوزير الزراعة\nمحسن دلول"
+}

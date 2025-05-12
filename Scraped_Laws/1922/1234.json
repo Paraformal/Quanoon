@@ -1,0 +1,68 @@
+{
+  "url": "http://77.42.251.205/LawView.aspx?opt=view&LawID=243971",
+  "title": "انشاء وظيفة مدير للدوائر الاقتصادية",
+  "metadata": {
+    "type": "تعريف النص: قرار المفوض السامي",
+    "number": "1234",
+    "date": " 10/02/1922",
+    "oj_number": "1537",
+    "oj_publish_date": "25/02/1922",
+    "oj_page": "0"
+  },
+  "preamble": "",
+  "articles": [
+    {
+      "number": "4 \r\nمادة 4:\r\nان السكرتير العام لدى المندوب السامي وحاكم\r\nلبنان الكبير مكلفان كل في ما خصه تنفيذ هذا\r\nالقرار\r\nArticle 4:\r\nLe Secretaire General du Haut-Commissariat et le Gouver-\r\nneur du Grand-Liban, sont charges, chacun en ce qui le\r\nconcerne, de l'execution du present arrete.",
+      "content": [
+        {
+          "type": "text",
+          "data": "مادة 1:\r\nانشئت في دولة لبنان الكبير اعتبارا من اول شهر\r\nشباط سنة 1922 وظيفة مدير للدوائر الاقتصادية"
+        },
+        {
+          "type": "text",
+          "data": "Article premier:\r\nA compter du 1er Fevrier 1922, il est cree a l'Etat du\r\nGrand-Liban un poste de Directeur des Services Economi-\r\nques."
+        }
+      ]
+    },
+    {
+      "number": "1",
+      "content": [
+        {
+          "type": "text",
+          "data": "مادة 2:\r\nان الدكتور الفونس ايوب عين في الوظيفة\r\nالمذكورة براتب شهري قدره ثمانون ليرا سورية\r\n(مدير من الدرجة الثالثة) اعتبارا من يوم\r\nاستلامه مهام وظيفته"
+        },
+        {
+          "type": "text",
+          "data": "Article 2:\r\nLe Docteur Ayoub Alphonse est nomme titulaire de ce pos-\r\nte au traitement mensuel de 80 L.S. (Directeur de 3me\r\nclasse) a dater de son entree en fonctions."
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "content": [
+        {
+          "type": "text",
+          "data": "مادة 3:\r\nيحق للدكتور الفونس ايوب ان يأخذ تعويض الغلاء\r\nالمنصوص عليه في القرار 864 المؤرخ في 26 ايار\r\nسنة 1921"
+        },
+        {
+          "type": "text",
+          "data": "Article 3:\r\nLe Docteur Ayoub Alphonse aura droit a l'indemnite de\r\nvie chere prevue par l'arrete 864 du 26 Mai 1921."
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "content": [
+        {
+          "type": "text",
+          "data": "مادة 4:\r\nان السكرتير العام لدى المندوب السامي وحاكم\r\nلبنان الكبير مكلفان كل في ما خصه تنفيذ هذا\r\nالقرار"
+        },
+        {
+          "type": "text",
+          "data": "Article 4:\r\nLe Secretaire General du Haut-Commissariat et le Gouver-\r\nneur du Grand-Liban, sont charges, chacun en ce qui le\r\nconcerne, de l'execution du present arrete."
+        }
+      ]
+    }
+  ],
+  "signature": "Beyrouth le 10 Fevrier 1922\nLe Haut-Commissaire P.I.\nSigne: Robert de CAIX"
+}

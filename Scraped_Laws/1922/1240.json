@@ -1,0 +1,43 @@
+{
+  "url": "http://77.42.251.205/LawView.aspx?opt=view&LawID=170155",
+  "title": "توزيع كراسي النيابة وفقا للطوائف",
+  "metadata": {
+    "type": "تعريف النص: قرار",
+    "number": "1240",
+    "date": " 21/03/1922",
+    "oj_number": "1545",
+    "oj_publish_date": "01/04/1922",
+    "oj_page": "0"
+  },
+  "preamble": "",
+  "articles": [
+    {
+      "number": "3 \r\nArticle 3:\r\nLe Secretaire General et le Directeur de l'Interieur,\r\nsont charges, chacun en ce qui le concerne, de l'execu-\r\ntion du present arrete.",
+      "content": [
+        {
+          "type": "text",
+          "data": "Article premier:\r\nLes sieges au Conseil-Representatif sont repartis entre\r\nles municipes et les sandjaks conformement au tableau\r\nsuivant:\r\nMunicipe de Beyrouth  5 sieges (dont un attribue aux\r\nrites minoritaires)\r\nMunicipe de Tripoli   1 siege\r\nSandjak du Mont-Liban 8 \"\r\n   \"    \" Liban-Nord   4 \"\r\n\"    \" Liban-Sud    6 \"\r\n  \"  de la Bekaa      6 \""
+        }
+      ]
+    },
+    {
+      "number": "1",
+      "content": [
+        {
+          "type": "text",
+          "data": "Article 2:\r\nLa repartition des sieges revenant a chaque municipe et\r\na chaque sandjak, effectuee propotionnellement entre les\r\ndifferents rites, est fixee par le tableau suivant, le\r\nsiege accorde aux rites minoritaires etant attribue au\r\nmunicipe de Beyrouth par application de l'alinea 5 de\r\nl'art. 2 de l'arrete No 1301 du 10 Mars 1922:\r\nA) Municipe de Beyrouth\r\nMaronites                                  1 siege\r\nGrecs-orthodoxes                           1 \"\r\nSunnite                                    2 \"\r\nRites minoritaires                         1 \"\r\nB) Municipe de Tripoli\r\nSunnites                                   1 \"\r\nC) Sandjak du Mont-Liban\r\nMaronites                                  5 \"\r\nGrecs-orthodoxes                           1 \"\r\nDruzes                                     2 \"\r\nD) Sandjak du Liban-Nord\r\nMaronites                                  2 \"\r\nGrecs-orthodoxes                           1 \"\r\nSunnites                                   1\"\r\nE) Sandjak du Liban-Sud\r\nMaronites                                  1 \"\r\nGrecs-catholiques                          1 \"\r\nSunnites                                   1 \"\r\nChiites                                    3 \"\r\nF) Sandjak de la Bekaa\r\nMaronites                                  1 \"\r\nGrecs-catholiques                          1 \"\r\nGrecs-Orthodoxes                           1 \"\r\nSunnites                                   1 \"\r\nChiites                                    2 \""
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "content": [
+        {
+          "type": "text",
+          "data": "Article 3:\r\nLe Secretaire General et le Directeur de l'Interieur,\r\nsont charges, chacun en ce qui le concerne, de l'execu-\r\ntion du present arrete."
+        }
+      ]
+    }
+  ],
+  "signature": "Beyrouth le 21 Mars 1922\nLe Gouverneur du Grand-Liban,\nSigne: TRABAUD"
+}

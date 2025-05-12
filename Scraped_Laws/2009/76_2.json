@@ -1,0 +1,43 @@
+{
+  "url": "http://77.42.251.205/LawView.aspx?opt=view&LawID=222158",
+  "title": "فتح مجموعات أرقام جديدة في كافة السنترالات",
+  "metadata": {
+    "type": "تعريف النص: قرار",
+    "number": "76",
+    "date": " 22/01/2009",
+    "oj_number": "5",
+    "oj_publish_date": "29/01/2009",
+    "oj_page": "496-497"
+  },
+  "preamble": "إن وزير الاتصالات،\nبناء على المرسوم رقم 18 تاريخ 11/07/2008 (تشكيل الحكومة)،\nبناء على المرسوم رقم 9460 تاريخ 26/10/1996 (تعديل وتحديد التعرفة)،\nبناء على قرار وزير البريد والمواصلات السلكية واللاسلكية رقم 256/ا/و تاريخ 30/11/1996.\nبناء على المرسوم رقم 10397 تاريخ 4/7/2003،\nبناء على اقتراح المدير العام للاستثمار والصيانة،\nيقرر ما يأتي:",
+  "articles": [
+    {
+      "number": "3 مادة 3:\r\nينشر هذا القرار ويبلغ حيث تدعو الحاجة.",
+      "content": [
+        {
+          "type": "text",
+          "data": "مادة 1:\r\nتضاف إلى فئات الأرقام المميزة المنصوص عنها في المادة الأولى ـ أولا ـ الفقرة 1 ـ د من المرسوم رقم 10397 تاريخ 4/7/2003 ستة وعشرون مجموعة جديدة من الأرقام المميزة حسب الفئات التالية:\r\nالفئة الأولى:\r\nxxxx yx, xc xb xa, cx bx ax, ax bx cx\r\n(b = a + 1, C = b + 1)\r\nالفئة الثانية:\r\n,xabcde, edcda x, abcde x, yy xxx y, xx yy zz, xxxx yz, abcd xx, x edcba.\r\n(b = a + 1, c = b + 1, d = c + 1 e = d +1)\r\nالفئة الثالثة:\r\n,xx yO zO, xx dcba, xx abcd, dcba xx, yzz yxx, xxxyzt, abcd xy, yzxx yz, yO xx zO, xyy zzx, xyO xzO, xx yz yz, xx yx yy, yz yz xx.\r\n(b = a + 1, c = b + 1, d = c + 1, e = d + 1)"
+        }
+      ]
+    },
+    {
+      "number": "1",
+      "content": [
+        {
+          "type": "text",
+          "data": "مادة 1:\r\nتضاف إلى فئات الأرقام المميزة المنصوص عنها في المادة الأولى ـ أولا ـ الفقرة 1 ـ د من المرسوم رقم 10397 تاريخ 4/7/2003 ستة وعشرون مجموعة جديدة من الأرقام المميزة حسب الفئات التالية:\r\nالفئة الأولى:\r\nxxxx yx, xc xb xa, cx bx ax, ax bx cx\r\n(b = a + 1, C = b + 1)\r\nالفئة الثانية:\r\n,xabcde, edcda x, abcde x, yy xxx y, xx yy zz, xxxx yz, abcd xx, x edcba.\r\n(b = a + 1, c = b + 1, d = c + 1 e = d +1)\r\nالفئة الثالثة:\r\n,xx yO zO, xx dcba, xx abcd, dcba xx, yzz yxx, xxxyzt, abcd xy, yzxx yz, yO xx zO, xyy zzx, xyO xzO, xx yz yz, xx yx yy, yz yz xx.\r\n(b = a + 1, c = b + 1, d = c + 1, e = d + 1)"
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "content": [
+        {
+          "type": "text",
+          "data": "مادة 3:\r\nينشر هذا القرار ويبلغ حيث تدعو الحاجة."
+        }
+      ]
+    }
+  ],
+  "signature": "بيروت في 22 كانون الثاني 2009\nوزير الاتصالات\nالمهندس جبران باسيل"
+}

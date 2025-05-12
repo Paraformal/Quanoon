@@ -1,0 +1,432 @@
+{
+  "url": "http://77.42.251.205/LawView.aspx?opt=view&LawID=190374",
+  "title": "قانون العمل",
+  "metadata": {
+    "type": "تعريف النص: قانون",
+    "number": "0",
+    "date": " 23/09/1946",
+    "oj_number": "40",
+    "oj_publish_date": "02/10/1946",
+    "oj_page": "1-13"
+  },
+  "preamble": "اقر مجلس النواب,\nوينشر رئيس الجمهورية ,",
+  "articles": [
+    {
+      "number": "114 الغيت جميع القوانين والانظمة المخالفة لاحكام هذا القانون والتي لا تتفق مع مضمونه.\n\nArt. 114.  Sont abrogées toutes dispositions de lois ou de règlements contraires à la présente loi ou incompatibles avec sa teneur.",
+      "content": [
+        {
+          "type": "text",
+          "data": "رب العمل هو كل شخص طبيعي او معنوي يستخدم باية صفة كانت اجيرا ما في مشروع صناعي او تجاري او زراعي مقابل اجر حتى ولو كان هذا الاجر عينا او نصيبا من الارباح."
+        },
+        {
+          "type": "text",
+          "data": "Art. 1er.  L'employeur est toute personne physique ou morale qui, dans une entreprise industrielle, commerciale ou agricole, emploie à n'importe quel titre un salarié moyennant salaire, même si ce salaire est payé en nature ou en part de bénéfice."
+        }
+      ]
+    },
+    {
+      "number": "1",
+      "content": [
+        {
+          "type": "text",
+          "data": "الاجير هو كل رجل او امرأة او حدث يشتغل باجر عند رب العمل في الاحوال المبينة في المادة السابقة بموجب اتفاق فردي او اجمالي خطيا كان ام شفهيا."
+        },
+        {
+          "type": "text",
+          "data": "Art. 2.  Le salarié est tout homme, femme ou adolescent qui travaille moyennant salaire chez un employeur dans les conditions indiquées à l'article précédent, d'après une convention individuelle ou collective, écrite ou orale."
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "content": [
+        {
+          "type": "text",
+          "data": "يقسم الاجراء الى مستخدمين وعمال:"
+        },
+        {
+          "type": "text",
+          "data": "- المستخدم هو كل اجير يقوم بعمل مكتبي او بعمل غير يدوي"
+        },
+        {
+          "type": "text",
+          "data": "- والعامل هو كل اجير لا يدخل في فئة المستخدمين."
+        },
+        {
+          "type": "text",
+          "data": "- اما المتدربون الموقتون او المياومون فيعتبرون من فئة المستخدمين اذا كانوا يقومون بعمل يعهد به عادة الى المستخدمين,"
+        },
+        {
+          "type": "text",
+          "data": "- ومن فئة العمال اذا كانوا يقومون بغير ذلك من الاعمال."
+        },
+        {
+          "type": "text",
+          "data": "- والمتدرب هو كل اجير لا يزال في طور الاعداد ولم يكتسب بعد في حرفته خبرة الاجير الاصيل."
+        },
+        {
+          "type": "text",
+          "data": "Art. 3.  Les salariés se répartissent en employés et en ouvriers:"
+        },
+        {
+          "type": "text",
+          "data": "Quant aux stagiaires, provisoires ou journaliers, ils sont assimilés aux employés s'ils accomplissent un travail confié normalement à des employés et ils sont assimilés aux ouvriers s'ils accomplissent des travaux autres."
+        },
+        {
+          "type": "text",
+          "data": "Le stagiaire est tout salarié encore en formation et qui n'a pas acquis dans sa profession la technique du salarié qualifié."
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "content": [
+        {
+          "type": "text",
+          "data": "النقابة جماعة من الاجراء او ارباب العمل او الحرف ينتمون الى احدى الفئات المنصوص عليها في المادة التالية وتضمهم جمعية تحدد شروطها في الباب الرابع من هذا القانون."
+        },
+        {
+          "type": "text",
+          "data": "Art. 4.  La corporation est un ensemble de salariés ou d'employeurs ou de maîtres-artisans qui font partie d'une des catégories prévues à l'article suivant et groupés en associations selon les conditions fixées au titre IV de la présente loi."
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "content": [
+        {
+          "type": "text",
+          "data": "تقسم النقابات الى اربع فئات كبيرة:"
+        },
+        {
+          "type": "text",
+          "data": "1- النقابات الصناعية"
+        },
+        {
+          "type": "text",
+          "data": "2- النقابات التجارية"
+        },
+        {
+          "type": "text",
+          "data": "3- النقابات الزراعية"
+        },
+        {
+          "type": "text",
+          "data": "4- نقابات الحرف الحرة"
+        },
+        {
+          "type": "text",
+          "data": "Art. 5.  Les corporations se répartissent en quatre grandes catégories:"
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "content": [
+        {
+          "type": "text",
+          "data": "صناعة المشغل هي كل صناعة او مهنة يشتغل فيها صاحبها بنفسه وبدون ان يكون تحت ادارة رب عمل آخر سواء اكان لديه اجراء ام لم يكن على ان لا يتجاوز عدد هؤلاء خمسة عشر اجيرا بما فيهم افراد عائلة سيد المشغل."
+        },
+        {
+          "type": "text",
+          "data": "Art. 6.  L'industrie artisanale est toute industrie ou métier où le propriétaire travaille lui-même sans se trouver sous la direction d'un autre employeur avec ou sans ouvriers à condition que le nombre de ceux-ci ne dépasse pas quinze, y compris les membres de la famille du maître-artisan."
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "content": [
+        {
+          "type": "text",
+          "data": "يستثنى من احكام هذا القانون."
+        },
+        {
+          "type": "text",
+          "data": "1- الخدم في بيوت الافراد"
+        },
+        {
+          "type": "text",
+          "data": "2- النقابات الزراعية التي لا علاقة لها بالتجارة والصناعة وهذه النقابات سيوضع لها تشريع خاص ."
+        },
+        {
+          "type": "text",
+          "data": "3- المؤسسات التي لا يشتغل فيها الا اعضاء العائلة تحت ادارة الاب او الام او الوصي."
+        },
+        {
+          "type": "text",
+          "data": "4- الادارات الحكومية والهيئات البلدية فيما يتعلق بالمستخدمين والاجراء المياومين والموقتين الذين لا يشملهم نظام الموظفين وسيوضع لهم تشريع خاص ."
+        },
+        {
+          "type": "text",
+          "data": "Art. 7.  Sont exceptés de la présente loi:"
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "content": [
+        {
+          "type": "text",
+          "data": "يخضع لاحكام هذا القانون جميع ارباب العمل والاجراء الا من استثنى منهم بنص خاص وتخضع له ايضا المؤسسات بمختلف فروعها التجارية والصناعية وملحقاتها وانواعها الوطنية والاجنبية سواء اكانت عامة ام خاصة علمانية ام دينية بما فيها مؤسسات التعليم الوطنية والاجنبية والمؤسسات الخيرية كما تخضع له الشركات الاجنبية التي لها مركز تجاري او فرع او وكالة في البلاد."
+        },
+        {
+          "type": "text",
+          "data": "Art. 8.  Sont soumis aux dispositions de la présente loi tous les employeurs et tous les salariés à l'exception de ceux qui en sont exceptés par un texte spécial. Y sont soumis également les établissements ainsi que leurs succursales et dépendances, qu'ils soient de nature commerciale ou industrielle, de nationalité libanaise ou étrangère, publics ou privés, laïcs ou religieux, y compris même les établissements d'enseignement nationaux ou étrangers, les sociétés de bienfaisance et les sociétés étrangères ayant une exploitation ou une agence ou une branche dans le pays."
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "content": [
+        {
+          "type": "text",
+          "data": "على كل شخص طبيعي او معنوي يستخدم في ظل هذا القانون اي عدد كان من الاجراء فى احدى المؤسسات المشار اليها في المادة السابقة, ان يقدم تصريحا عنهم الى مصلحة الشؤون الاجتماعية خلال شهرين ابتداء من نشر هذا القانون في الجريدة الرسمية, وان يربط بهذا التصريح نظاما للاجراء يتفق مع احكام هذا القانون فيما يتعلق بجميع المشاريع التي تستخدم اكثر من 25 اجيرا. ويجب ان يقدم مسبقا تصريحا بشأن المؤسسات الجديدة في مدة شهرين من تاريخ تأسيسها ويجب ايضا على جميع المؤسسات تقديم التصريح في الحالات التالية:"
+        },
+        {
+          "type": "text",
+          "data": "1- اذا عزمت مؤسسة من المؤسسات المشار اليها في المادة السابقة على استخدام اي عدد كان من الاجراء."
+        },
+        {
+          "type": "text",
+          "data": "2- اذا انقطعت مؤسسة عن استخدام الاجراء مدة ستة اشهر على الاقل ثم عزمت على استخدامهم."
+        },
+        {
+          "type": "text",
+          "data": "3- اذا كانت المؤسسة التي تستخدم عددا من الاجراء قد ابدلت مستثمرها."
+        },
+        {
+          "type": "text",
+          "data": "4- اذا انتقلت المؤسسة التي تستخدم عددا من الاجراء الى محل آخر او طرأ عليها توسع او تغيير من شأنه احداث تعديل في الاعمال الصناعية والتجارية التي تمارسها."
+        },
+        {
+          "type": "text",
+          "data": "5- اذا كانت المؤسسة التي لا تستخدم نساء او اولادا دون السادسة عشرة من العمر قد عزمت على استخدامهم."
+        },
+        {
+          "type": "text",
+          "data": "6- اذا كانت المؤسسة التي لا تستعمل قوة محركة او الات ميكانيكية قد استعملتها فعلى رئيسها ان يقدم تصريحا يوضح فيه اية حالة من الحالات المذكورة آنفا تنطبق عليه ويبين فيه اسم وعنوان المصرح وموقع المؤسسة وحقيقة الاعمال الصناعية والتجارية التي تمارسها ويذكر عند الاقتضاء اذا كان يستخدم نساء او اولادا دون السادسة عشرة من العمر او كان يستعمل قوة محركة او آلات ميكانيكية."
+        },
+        {
+          "type": "text",
+          "data": "Art. 9.  Toute personne physique ou morale qui, selon les dispositions de cette présente loi, occupe du personnel, quel que soit le nombre des salariés dans l'un des établissements visés à l'article précédent, doit en faire la déclaration au Service des affaires sociales dans le délai de deux mois à compter de la date de publication de cette loi au\nJournal officiel\n."
+        },
+        {
+          "type": "text",
+          "data": "Cette déclaration, pour toutes les entreprises employant plus de vingt-cinq salariés, doit être accompagnée d'un statut du personnel conforme aux prescriptions de cette présente loi."
+        },
+        {
+          "type": "text",
+          "data": "Une déclaration préalable doit être faite au sujet des entreprises nouvelles dans le délai de deux mois à compter de la date de leur fondation."
+        },
+        {
+          "type": "text",
+          "data": "Tous les établissements sont tenus en outre de présenter une déclaration dans les cas suivants:"
+        },
+        {
+          "type": "text",
+          "data": "La déclaration doit être faite par le chef de cet établissement et préciser auxquels des cas ci-dessus elle répond, et indiquer les nom et adresse du déclarant, l'emplacement de l'établissement, la nature exacte des industries ou des commerces exercés et, s'il y a lieu, l'emploi des femmes ou des enfants âgés de moins de seize ans et l'utilisation de force motrice et d'outillage mécanique."
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "content": [
+        {
+          "type": "text",
+          "data": "مادة2:"
+        },
+        {
+          "type": "text",
+          "data": "كل مخالفة لأحكام قانون العمل أو المراسيم والقرارات المتخذة لتطبيقه وتنفيذه تعرض مرتكبيها صاحب العمل سواء أكان لبنانياً أو أجنبياً والعامل الأجنبي كليهما لتسطير محضر ضبط بقيمة تتراوح بين مليوني ليرة لبنانية وخمسة ملايين ليرة لبنانية ."
+        },
+        {
+          "type": "text",
+          "data": "يستعاض عنها في حال التسوية خلال خمسة عشرة يوماً من تاريخ تنظيم محضر الضبط بما يعادل عشرون بالمئة من قيمة محضر الضبط."
+        },
+        {
+          "type": "text",
+          "data": "وفي حال عدم إجراء التسوية خلال المهلة المنوه عنها أعلاه يحال محضر المخالفة إلى المحاكم المختصة لتوقيع عقوبة مضاعفة الغرامة أو السجن من شهر إلى ثلاثة أشهر."
+        },
+        {
+          "type": "text",
+          "data": "في حال التكرار خلال السنة الواحدة تضاعف قيمة محضر الضبط وكذلك عقوبة الحبس.\nمادة 3:\nتعدلت بموجب المرسوم 9816 ت 4/5/1968\nلا يلاحق المخالف امام المحاكم اذا دفع خلال خمسة عشر يوما من تنظيم محضر الضبط الحد الادنى للغرامة المنصوص عنها في المادة 2 من هذا القانون الا في حالة تكرار المخالفة خلال مدة سنة.\nمادة 4:\nتعدلت بموجب المرسوم 9816 ت 4/5/1968\nاذا تعرض أحدهم للموظف المولج بضبط المخالفة اثناء قيامه بوظيفته او بسببها، او عرقل اعماله، او منعه من القيـام بها، يعـاقب بالاضافة الى الاحكام المنصوص عنها بقانون العقوبات بغرامة تتراوح بين 500 و1000 ليرة لبنانية وبالحبس من شهر الى ثلاثة اشهر او باحدى هاتين العقوبتين على ان لا تمنح الاسباب المخففة ولا وقف التنفيذ، وتضاعف العقوبة عند تكرار الجريمة.(تعدلت الغرامة بموجب القانون 173 ت14/2/2000)\nمادة 5:\nاذا امتنع صاحب المؤسسة عن تنفيذ تدابير الوقاية والسلامة المفروضة عليه بموجب الانذار الموجه من قبل اللجنة المختصة يحق للمدير العام لوزارة العمل ان يوقف المؤسسة عن العمل مؤقتا، لمدة لا تتجاوز عشرة ايام على ان تدفع اجور الاجراء والمستخدمين كاملة خلال مدة التوقف عن العمل.\nالمادة 6\nتقوم دائرة تفتيش العمل بضبط المخالفات لاحكام هذا القانون وللنصوص التطبيقية المتعلقة به، ويكون للمحاضر المنظمة القوة الثبوتية حتى يثبت العكس."
+        },
+        {
+          "type": "text",
+          "data": "Art. 107-108 12.  Toute infraction aux dispositions de la présente loi et des décrets pris en exécution de ces dispositions sera jugée par les tribunaux compétents. Le contrevenant sera puni d'une amende de cent à mille livres libanaises et d'un emprisonnement de trente jours à trois mois, ou de l'une de ces deux peines seulement. En cas de récidive dans la même année, les peines sont doublées."
+        },
+        {
+          "type": "text",
+          "data": "S'il effectue le paiement du montant minimum de l'amende au cours des trois jours suivant l'établissement du procès-verbal, le contrevenant ne sera pas poursuivi devant le tribunal, sauf en cas de récidive.\nToute personne entravant les activités du fonctionnaire chargé de dresser le procès-verbal de constat de l'infraction sera punie d'une amende de cinq cents livres libanaises, venant s'ajouter aux peines prévues par la loi pénale. En cas de récidive, cette peine est doublée.\nLorsque le propriétaire de l'établissement refuse de mettre en œuvre les dispositions préventives requises conformément à un préavis adressé par le comité compétent, le directeur général des Affaires sociales peut provisoirement suspendre l'exécution du travail dans l'établissement, pour une durée ne dépassant par dix jours, à condition que les traitements soient intégralement versés aux journaliers et employés pendant l'interruption de travail.\nLe bureau de l'inspection du travail est chargé de veiller au respect des dispositions de la présente loi et des décrets pris en application de ces dispositions. Les procès-verbaux établis ont valeur de constat jusqu'à preuve du contraire."
+        }
+      ]
+    },
+    {
+      "number": "114 الغيت جميع القوانين والانظمة المخالفة لاحكام هذا القانون والتي لا تتفق مع مضمونه.\n\nArt. 114.  Sont abrogées toutes dispositions de lois ou de règlements contraires à la présente loi ou incompatibles avec sa teneur.",
+      "content": [
+        {
+          "type": "text",
+          "data": "تلغى المادتان 107 و108 بموجب المادة الاولى  من قانون 17/9/1962 واستبدلت بالمواد  2 الى 6 من القانون المذكور\nمادة 2:\nكل مخالفة لاحكام هذا القانون وللمراسيم والقرارات المتخذة لتطبيقه وتنفيذه تحال الى المحاكم ذات الاختصاص ويعاقب مرتكبها عن كل مخالفة لوحدها بغرامة تتراوح بين 250000 ليرة و 2500000 ليرة لبنانية وبالحبس من شهر الى ثلاثة اشهر او باحدى هاتين العقوبتين وتضاعف العقوبة عند التكرار خلال سنة واحدة.(عدلت الغرامة بموجب القانون 173 ت 14/2/2000)\nاضيفت الفقرة التالية بموجب المرسوم 9816 ت 4/5/1968\nلا يجوز منح الاسباب المخففة ولا الحكم بوقف التنفيذ في المخالفة المرتكبة من مخالف سبق انذاره او انذار من يقوم مقامه خطيا بتصحيح اوضاعه ويحكم في كل مخالفة على حدة تعدد بتعدد الاجراء ولا يجوز ادغام العقوبات.\nمادة 3:\nتعدلت بموجب المرسوم 9816 ت 4/5/1968\nلا يلاحق المخالف امام المحاكم اذا دفع خلال خمسة عشر يوما من تنظيم محضر الضبط الحد الادنى للغرامة المنصوص عنها في المادة 2 من هذا القانون الا في حالة تكرار المخالفة خلال مدة سنة.\nمادة 4:\nتعدلت بموجب المرسوم 9816 ت 4/5/1968\nاذا تعرض أحدهم للموظف المولج بضبط المخالفة اثناء قيامه بوظيفته او بسببها، او عرقل اعماله، او منعه من القيـام بها، يعـاقب بالاضافة الى الاحكام المنصوص عنها بقانون العقوبات بغرامة تتراوح بين 500 و1000 ليرة لبنانية وبالحبس من شهر الى ثلاثة اشهر او باحدى هاتين العقوبتين على ان لا تمنح الاسباب المخففة ولا وقف التنفيذ، وتضاعف العقوبة عند تكرار الجريمة.(تعدلت الغرامة بموجب القانون 173 ت14/2/2000)\nمادة 5:\nاذا امتنع صاحب المؤسسة عن تنفيذ تدابير الوقاية والسلامة المفروضة عليه بموجب الانذار الموجه من قبل اللجنة المختصة يحق للمدير العام لوزارة العمل ان يوقف المؤسسة عن العمل مؤقتا، لمدة لا تتجاوز عشرة ايام على ان تدفع اجور الاجراء والمستخدمين كاملة خلال مدة التوقف عن العمل.\nالمادة 6\nتقوم دائرة تفتيش العمل بضبط المخالفات لاحكام هذا القانون وللنصوص التطبيقية المتعلقة به، ويكون للمحاضر المنظمة القوة الثبوتية حتى يثبت العكس."
+        },
+        {
+          "type": "text",
+          "data": "Art. 107-108 12.  Toute infraction aux dispositions de la présente loi et des décrets pris en exécution de ces dispositions sera jugée par les tribunaux compétents. Le contrevenant sera puni d'une amende de cent à mille livres libanaises et d'un emprisonnement de trente jours à trois mois, ou de l'une de ces deux peines seulement. En cas de récidive dans la même année, les peines sont doublées."
+        },
+        {
+          "type": "text",
+          "data": "S'il effectue le paiement du montant minimum de l'amende au cours des trois jours suivant l'établissement du procès-verbal, le contrevenant ne sera pas poursuivi devant le tribunal, sauf en cas de récidive."
+        },
+        {
+          "type": "text",
+          "data": "Toute personne entravant les activités du fonctionnaire chargé de dresser le procès-verbal de constat de l'infraction sera punie d'une amende de cinq cents livres libanaises, venant s'ajouter aux peines prévues par la loi pénale. En cas de récidive, cette peine est doublée."
+        },
+        {
+          "type": "text",
+          "data": "Lorsque le propriétaire de l'établissement refuse de mettre en œuvre les dispositions préventives requises conformément à un préavis adressé par le comité compétent, le directeur général des Affaires sociales peut provisoirement suspendre l'exécution du travail dans l'établissement, pour une durée ne dépassant par dix jours, à condition que les traitements soient intégralement versés aux journaliers et employés pendant l'interruption de travail."
+        },
+        {
+          "type": "text",
+          "data": "Le bureau de l'inspection du travail est chargé de veiller au respect des dispositions de la présente loi et des décrets pris en application de ces dispositions. Les procès-verbaux établis ont valeur de constat jusqu'à preuve du contraire."
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "content": [
+        {
+          "type": "text",
+          "data": "على البلديات في مركز كل محافظة ان تنشىء مكتبا للاستخدام يعمل تحت ادارة رئيس البلدية واشراف وزارة الاقتصاد الوطني - مصلحة الشؤون الاجتماعية.\nويجوز ان تنشأ مكاتب الاسخدام في بلديات اخرى بقرار من وزير الاقتصاد الوطني.\n- تخضع مكاتب الاستخدام الخاصة حتى المجانية منها لترخيص من وزير العمل والشؤون الاجتماعية وعلى المكاتب المنشأة قبل صدور هذا القانون ان تتقدم خلال ثلاثة اشهر بطلب الترخيص المذكور\n- يحق لوزير العمل والشؤون الاجتماعية الغاء الترخيص المذكور في حال عدم تقيد صاحب مكتب الاستخدام بالهدف الذي انشيء المكتب من اجله او الحاقه الضرر بمصلحة اصحاب العلاقة او المصلحة العامة. - يشترط للموافقة على طلب الترخيص :\n1- اذا كان طالب الترخيص شخصا طبيعيا."
+        },
+        {
+          "type": "text",
+          "data": "أ- ان يكون قد اتم الحادية والعشرين من العمر.\nب - ان يكون متمتعا بالحقوق المدنية وغير محكوم بجناية او جنحة شائنة او جريمة من جرائم المخدرات ."
+        },
+        {
+          "type": "text",
+          "data": "2- اذا كان الشخص معنويا."
+        },
+        {
+          "type": "text",
+          "data": "أ- ان يكون منشأ وفقا للقوانين المرعية الاجراء.\nب - ان تجيز له انظمته ممارسة هذا العمل"
+        },
+        {
+          "type": "text",
+          "data": "3- تحدد بقرار يصدر عن وزير العمل والشؤون الاجتماعية شروط انشاء مكاتب الاستخدام الخاصة."
+        },
+        {
+          "type": "text",
+          "data": "Art. 110  Les municipalités au siège de chaque Mohafazat doivent établir un bureau de placement qui fonctionnera sous l'autorité du président de la municipalité et le contrôle du ministère de l'Economie nationale, Service des affaires sociales."
+        },
+        {
+          "type": "text",
+          "data": "La création de bureaux de placement dans d'autres municipalités pourra être autorisée par arrêté du ministre de l'Economie nationale."
+        },
+        {
+          "type": "text",
+          "data": "La création de bureaux de placement privés, y compris de bureaux exerçant gratuitement, est soumise à l'obtention d'un permis délivré par le ministre du Travail et des Affaires sociales. Les bureaux existant avant la publication de la loi no 37/71 du 14 juin 1971 devront présenter une demande, en vue de l'obtention du permis, dans un délai de trois mois."
+        },
+        {
+          "type": "text",
+          "data": "Le ministre du Travail et des Affaires sociales peut annuler le permis lorsque le propriétaire du bureau de placement ne se conforme pas à l'objet prévu ou cause un préjudice aux personnes intéressées ou à l'intérêt général."
+        },
+        {
+          "type": "text",
+          "data": "L'approbation de la demande de permis est soumise aux conditions suivantes:"
+        },
+        {
+          "type": "text",
+          "data": "1) si le requérant est une personne physique, il doit:"
+        },
+        {
+          "type": "text",
+          "data": "2) si le requérant est une personne morale, il faut:"
+        },
+        {
+          "type": "text",
+          "data": "3) Les conditions requises aux fins de la création de bureaux de placement privés seront fixées par arrêté du ministre du Travail et des Affaires sociales."
+        }
+      ]
+    },
+    {
+      "number": "11",
+      "content": [
+        {
+          "type": "text",
+          "data": "مكاتب الاستخدام تختص :"
+        },
+        {
+          "type": "text",
+          "data": "1- بقبول طلبات الاستخدام وطلبات اليد العاملة في كل مهنة من مهن النقابات المنصوص عليها في هذا القانون وتصنيفها وتنسيقها وتسجيلها في سجل خاص بتاريخ ورودها."
+        },
+        {
+          "type": "text",
+          "data": "2- بتسهيل ايجاد عمل للعاطلين وبذل المساعي لهذه الغاية."
+        },
+        {
+          "type": "text",
+          "data": "3- بتوجيه العمال العاطلين حسب حاجات البلاد الاقتصادية وحسب احوالهم الخاصة وطلبات اليد العاملة وتسهيل انتقالهم من مهنة الى مهنة او من منطقة الى منطقة."
+        },
+        {
+          "type": "text",
+          "data": "4- تنظيم احصاآت عن عدد العمال العاطلين في كل منطقة وفي كل مهنة في الاوقات التي تعينها وزارة الاقتصاد الوطني."
+        },
+        {
+          "type": "text",
+          "data": "Art. 111.  Les bureaux de placement ont pour but:"
+        },
+        {
+          "type": "text",
+          "data": "1) de recevoir, de classer, coordonner et enregistrer dans un registre spécial, à la date de leur réception, les demandes d'emploi et les offres de travail pour toutes catégories des professions comprises dans les corporations énumérées dans la présente loi;"
+        }
+      ]
+    },
+    {
+      "number": "12",
+      "content": [
+        {
+          "type": "text",
+          "data": "تشمل احكام هذا القانون العقود الجاري العمل بموجبها بتاريخ نشره وتطبق احكامه في خلال ثلاثة اشهر من تاريخ نشره على جميع الهيئات النقابية المنصوص عليها في المواد 83 وما يليها من هذا القانون."
+        },
+        {
+          "type": "text",
+          "data": "ان الدعاوى قيد النظر لدى المحاكم العادية تبت فيها المحاكم الواضعة يدها عليها."
+        },
+        {
+          "type": "text",
+          "data": "Art. 112.  Les dispositions de la présente loi s'appliquent aux contrats en cours à la date de sa publication, et tous les syndicats qui font l'objet des articles 83 et suivants de la présente loi y seront soumis dans un délai de trois mois à compter de sa publication."
+        },
+        {
+          "type": "text",
+          "data": "Les actions en instance auprès des tribunaux de droit commun demeureront de la compétence de ces tribunaux."
+        }
+      ]
+    },
+    {
+      "number": "13  مادة ملغاة (الغيت بموجب 9640/1975)",
+      "content": [
+        {
+          "type": "text",
+          "data": "تنظم بمراسيم تتخذ في مجلس الوزراء طرق تطبيق احكام هذا القانون."
+        },
+        {
+          "type": "text",
+          "data": "Art. 113.  Des décrets pris en Conseil des ministres fixeront les modalités d'exécution des prescriptions de la présente loi."
+        }
+      ]
+    },
+    {
+      "number": "14",
+      "content": [
+        {
+          "type": "text",
+          "data": "الغيت جميع القوانين والانظمة المخالفة لاحكام هذا القانون والتي لا تتفق مع مضمونه."
+        },
+        {
+          "type": "text",
+          "data": "Art. 114.  Sont abrogées toutes dispositions de lois ou de règlements contraires à la présente loi ou incompatibles avec sa teneur."
+        }
+      ]
+    }
+  ],
+  "signature": "بيروت  في 23 ايلول سنة 1946\nالامضاء: بشارة خليل الخوري\nصدر عن رئيس  الجمهورية\nرئيس  مجلس  الوزراء\nوزير الاقتصاد الوطني\nالامضاء: سعدي المنلا\nوزير العدلية\nالامضاء: احمد الحسيني"
+}

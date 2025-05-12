@@ -1,0 +1,671 @@
+{
+  "url": "http://77.42.251.205/LawView.aspx?opt=view&LawID=227428",
+  "title": "إعطاء صفة الالزام القانوني لمواصفات قياسية وطنية متعلقة بقطاع تكنولوجيا العناية الصحية والكيمياء وسخان المياه الشمسي والمصابيح الاقتصادية الموفرة للطاقة",
+  "metadata": {
+    "type": "تعريف النص: مرسوم",
+    "number": "5305",
+    "date": " 28/10/2010",
+    "oj_number": "55",
+    "oj_publish_date": "30/11/2010",
+    "oj_page": "7383-9480"
+  },
+  "preamble": "ان رئيس الجمهورية،\nبناء على الدستور،\nبناء على القانون الصادر بتاريخ 23/7/1962 وتعديلاته المتعلق بإنشاء مؤسسة المقاييس والمواصفات اللبنانية لا سيما المادتين الرابعة والسابعة منه،\nبناء على قرارات مجلس ادارة مؤسسة المقاييس والمواصفات اللبنانية رقم 106/1 تاريخ 15/2/2008 ورقم 108/2 تاريخ 18/4/2008 ورقم 109/2 تاريخ 30/5/2008 ورقم 115/1 تاريخ 31/10/2008،\nبناء على اقتراح وزير الصناعة،\nوبعد موافقة مجلس الوزراء بتاريخ 21/9/2010،\nيرسم ما يأتي:",
+  "articles": [
+    {
+      "number": "3  ينشر هذا المرسوم ويبلغ حيث تدعو الحاجة.",
+      "content": [
+        {
+          "type": "text",
+          "data": "الرقم:"
+        },
+        {
+          "type": "text",
+          "data": "NL 218:2008"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "المنظفات التركيبية على شكل حبيبات للاستعمال المنزلي (مساحيق الغسيل"
+        },
+        {
+          "type": "text",
+          "data": "ملاحظات"
+        },
+        {
+          "type": "text",
+          "data": "طلب الزامية البنود التالية فقط من المواصفة :"
+        },
+        {
+          "type": "text",
+          "data": "- نسبة الملوحة"
+        },
+        {
+          "type": "text",
+          "data": "- نسبة شوارد الهيدرجين"
+        },
+        {
+          "type": "text",
+          "data": "- نسبة التفكك الحيوي البيولوجي الاولي للمواد الفعالة سطحيا"
+        },
+        {
+          "type": "text",
+          "data": "- نسبة التفكك الحيوي البيولوجي النهائي للمواد الفعالة سطحيا"
+        },
+        {
+          "type": "text",
+          "data": "- بطاقة المعلومات البيانية"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL 219:2007"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "المنظفات الصنعية السائلة لغسل الصحون يدويا"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL EN 455-1 :2007"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "القفافيز الطبية الصالحة للاستعمال مرة واحدة - الجزء 1: المتطلبات واختبار الخلو من الثقوب"
+        },
+        {
+          "type": "text",
+          "data": "الرقم:"
+        },
+        {
+          "type": "text",
+          "data": "NL EN 455-2 :2007"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "القفافيز الطبية الصالحة للاستعمال مرة واحدة - الجزء 2: المتطلبات واختبار"
+        },
+        {
+          "type": "text",
+          "data": "الخصائص الفيزيقية"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL EN 455-3 :2007"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "القفافيز الطبية الصالحة للاستعمال مرة واحدة - الجزء 3: المتطلبات واختبار"
+        },
+        {
+          "type": "text",
+          "data": "التقييم البيولوجي"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL EN 980 :2007"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "الرموز التصويرية المستعملة على البطاقات البيانية الخاصة بالمعدات الطبية"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL EN 13795-1 :2007"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "الستائر والقمصان والبذلات المعقمة المستعملة في العمليات الجراحية للمرضى والطاقم الطبي والتجهيزات - الجزء 1: المتطلبات العامة للمصنعين، والمكلفين والمنتجات"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL ISO 14155-1:2007"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "التحقيق السريري للادوات الطبية المعدة للانسان - الجزء الاول المتطلبات العامة"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL ISO 14155-2:2007"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "التحقيق السريري للادوات الطبية المعدة للانسان - الجزء الثاني: خطط التحقيق السريري"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL ISO 14408:2007"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "الانابيب الخاصة بالقصبة الهوائية والمصممة لجراحات اللايزر - متطلبات الوسم وما يرافقها من معلومات"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL ISO 14602:2007"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "الخلايا المزدرعة الجراحية غير الفاعلة - الخلايا المزدرعة للتركيب العظمي - المتطلبات الخاصة"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL ISO 14630:2007"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "الخلايا المزدرعة الجراحية غير الفاعلة - المتطلبات العامة"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL ISO 14160:2007"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "تعقيم الادوات الطبية المعدة للاستعمال لمرة واحدة والمحتوية على مواد من اصل حيواني - التصديق على عملية التعقيم بواسطة المعقمات الكيمائية السائلة والمراقبة الروتينية"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL ISO 14937:2007"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "تعقيم منتجات العناية بالصحة - المتطلبات العامة لوصف خصائص عامل معقم ولتطوير عملية تعقيم الادوات الطبية، والتصديق عليها ومراقبتها الروتينية"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL ISO 17664:2007"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "تعقيم الادوات الطبية - المعلومات الواجب تقديمها للمصنع لانتاج ادوات طبية قابلة لاعادة الاستعمال"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL EN 556-1:2007"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "تعقيم المعدات الطبية - متطلبات الحصول على صفة \"معقمة\" المعدات الطبية - الجزء 1: متطلبات المعدات الطبية المعقمة بالمرحلة النهائية من التصنيع"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL EN 556-2:2007"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "تعقيم المعدات الطبية - متطلبات الحصول على صفة \"معقمة\" المعدات الطبية - الجزء 2: المتطلبات الخاصة بالمعدات الطبية المصنعة بطريقة معقمة"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL EN 12470-3:2007"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "ميازين الحرارة الطبية - الجزء 3: اداء ميازين الحرارة الالكترونية المدمجة (بالمقارنة والاستقراء) المجهزة لقياس الدرجات القصوى"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL EN 12470-4:2007"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "ميازين الحرارة الطبية - الجزء 4: اداء ميازين الحرارة الكهربائية للقياس المستمر"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL EN 12470-5:2007"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "ميازين الحرارة الطبية - الجزء 5: اداء ميازين الحرارة تحت الحمراء من خلال الاذن، المجهزة لقياس الدرجات القصوى"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL ISO 18777:2007"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "Transportable liquid oxygen systems for medical use-Particular requirements"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL ISO 18779:2007"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "Medical devices for conserving oxygen and oxygen mixtures - Particular requirements"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL IEC 60929:2007"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "A.C supplied electronic ballasts for tubular fluorescent lamps. Performance requirements"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL IEC 60927:2007"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "Specification for auxiliaries for lamps. Starting drvices (other than glow starters). Performance requirements"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL IEC 60921:2007"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "Ballasts for tubular fluorescent lamps. Performance requirements"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL IEC 60155:2007"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "Glow-starters for fluorescent lamps"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL IEC 61199:2007"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "Single-capped fluorescent lamps. Safety specifications"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL IEC 60901:2007"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "Specification for single-capped fluorescent lamps. Performance specifications"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL IEC 60968:2007"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "Specification for self-ballasted lamps for general lighting services. Safety requirements"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL IEC 60969:2007"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "Self-ballasted lamps for general lighting services. Performance requirements"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL EN 12975-1:2006"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "Thermal solar systems and components, Solar collectors. General requirements"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL EN 12975-2:2006"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "Thermal solar systems and components. Solar collectors. Test methods"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL EN 12976-1:2006"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "Thermal solar systems and components. Factory made systems. General requirements"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL EN 12976-2:2006"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "Thermal solar systems and components. Factory made systems. Test methods"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL EN 12977-1:2006"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "Thermal solar systems and components. Custom build systems . General requirements"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL EN 12977-2:2006"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "Thermal solar systems and components. Custom built systems. Test methods"
+        },
+        {
+          "type": "text",
+          "data": "الرقم"
+        },
+        {
+          "type": "text",
+          "data": "NL EN 12977-3:2006"
+        },
+        {
+          "type": "text",
+          "data": "العنوان"
+        },
+        {
+          "type": "text",
+          "data": "Thermal solar systems and components. Custom built systems. Performance"
+        },
+        {
+          "type": "text",
+          "data": "characterization of sters for solar heating systems"
+        }
+      ]
+    },
+    {
+      "number": "1",
+      "content": [
+        {
+          "type": "text",
+          "data": "تعتمد نتائج الفحوص والاختبارات والتحاليل عن معهد البحوث الصناعية للتحقق من مطابقة المنتجات المعنية بهذا المرسوم للمواصفات العائدة لكل منها."
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "content": [
+        {
+          "type": "text",
+          "data": "ينشر هذا المرسوم ويبلغ حيث تدعو الحاجة."
+        }
+      ]
+    }
+  ],
+  "signature": "بعبدا في 28 تشرين الاول 2010\nالامضاء: ميشال سليمان\nصدر عن رئيس الجمهورية\nرئيس مجلس الوزراء\nالامضاء: سعد الدين الحريري\nوزير الصناعة\nالامضاء: ابراهام دده يان"
+}

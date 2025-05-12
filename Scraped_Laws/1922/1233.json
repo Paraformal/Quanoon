@@ -1,0 +1,55 @@
+{
+  "url": "http://77.42.251.205/LawView.aspx?opt=view&LawID=243977",
+  "title": "يختص  بنشر الاعلانات  القضائية في جريدة لبنان الكبير\r\nالرسمية",
+  "metadata": {
+    "type": "تعريف النص: قرار",
+    "number": "1233",
+    "date": " 16/03/1922",
+    "oj_number": "1544",
+    "oj_publish_date": "29/03/1922",
+    "oj_page": "0"
+  },
+  "preamble": "Le Gouverneur du Grand-Liban,\nVu l'arrete No 329 du 1er Septembre 1920,\nVu les arretes Nos 318 du 31 Aout 1920 et 336 du 1er\nSeptembre 1920,\nSur la proposition du Directeur de la Justice, apres\navis du Conseiller Judiciaire,\nApres avis conforme du Secretaire General du Gouverne-\nment,\nLe Conseiller du Gouvernement entendu,\nARRETE",
+  "articles": [
+    {
+      "number": "3 \r\nمادة 3:\r\nعلى السكرتير العام ومدير العدلية ان ينفذا كل في\r\nما اختص به مآل هذا القرار الذي يبتدىء العمل به\r\nفي اول شهر نيسان سنة 1922\r\nArticle 3:\r\nLe Secretaire General et le Directeur de la Justice sont\r\ncharges, chacun en ce qui le concerne, de l'execution du\r\npresent arrete qui entrera en vigueur le 1er Avril 1922.",
+      "content": [
+        {
+          "type": "text",
+          "data": "مادة 1:\r\nيجب نشر جميع الاعلانات القضائية بدون استثناء\r\nفي جريدة لبنان الكبير الرسمية"
+        },
+        {
+          "type": "text",
+          "data": "Article premier:\r\nToutes les annonces judiciaires sans aucune exception\r\ndoivent etre inserees au Journal Officiel de l'Etat du\r\nGrand-Liban."
+        }
+      ]
+    },
+    {
+      "number": "1",
+      "content": [
+        {
+          "type": "text",
+          "data": "مادة 2:\r\nان التعرفة الموضوعة للنشرات التي هي من هذا\r\nالقبيل تستوفى عملة سورية على الوجه الاتي\r\nيؤخذ تسعون قرشا عن النشرة المؤلفة من 15\r\nسطرا فما دون\r\nويؤخذ عن النشرة التي تزيد سطورها على العدد\r\nالمذكور لغاية 40 سطرا - مئة وخمسون قرشا\r\nاما النشرة التي تتجاوز الاربعين سطرا فيؤخذ\r\nعنها 225 قرشا مهما كان عدد سطورها\r\nويحسب كل سطر ست كلمات\r\nعلى ان النشرات المختصة بالمواد الجزائية\r\nتدرج مجانا"
+        },
+        {
+          "type": "text",
+          "data": "Article 2:\r\nLe tarif des insertions de l'espece, exprime en piastres\r\nsyriennes,est le suivant:\r\nPour une insertion de 15 lignes et au dessous, 90 pias-\r\ntres\r\nPour les lignes supplementaires jusqu'a 40 lignes com-\r\npris, 150 piastres\r\nPour les lignes au-dessus de 40, quel que soit leur nom-\r\nbre, 225 piastres\r\nChaque ligne etant decomptee a raison de 6 mots.\r\nToutefois, les insertions en matiere penale sont inse-\r\nrees gratuitement."
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "content": [
+        {
+          "type": "text",
+          "data": "مادة 3:\r\nعلى السكرتير العام ومدير العدلية ان ينفذا كل في\r\nما اختص به مآل هذا القرار الذي يبتدىء العمل به\r\nفي اول شهر نيسان سنة 1922"
+        },
+        {
+          "type": "text",
+          "data": "Article 3:\r\nLe Secretaire General et le Directeur de la Justice sont\r\ncharges, chacun en ce qui le concerne, de l'execution du\r\npresent arrete qui entrera en vigueur le 1er Avril 1922."
+        }
+      ]
+    }
+  ],
+  "signature": ""
+}

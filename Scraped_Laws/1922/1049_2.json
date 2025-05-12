@@ -1,0 +1,55 @@
+{
+  "url": "http://77.42.251.205/LawView.aspx?opt=view&LawID=243960",
+  "title": "الغاء قلم الجوازات  المركزي في لبنان الكبير",
+  "metadata": {
+    "type": "تعريف النص: قرار",
+    "number": "1049",
+    "date": " 10/01/1922",
+    "oj_number": "1528",
+    "oj_publish_date": "21/01/1922",
+    "oj_page": "4"
+  },
+  "preamble": "",
+  "articles": [
+    {
+      "number": "3 \r\nمادة 3:\r\nعلى السكرتير العام ان ينفذ هذا القرار\r\nArticle 3:\r\nLe Secretaire General est charge de l'execution du pre-\r\nsent arrete",
+      "content": [
+        {
+          "type": "text",
+          "data": "مادة 1:\r\nالغي قلم الجوازات المركزي في لبنان الكبير"
+        },
+        {
+          "type": "text",
+          "data": "Article premier:\r\nLe Bureau Central des Passeports du Grand-Liban est sup-\r\n\nprime."
+        }
+      ]
+    },
+    {
+      "number": "1",
+      "content": [
+        {
+          "type": "text",
+          "data": "مادة 2:\r\nسيقوم بمهمة هذا القلم كتاب معينون لهذا الغرض\r\nفي مدينتي بيروت وطرابلس المستقلين اداريا وفي\r\nالوية جبل لبنان والبقاع ولبنان الجنوبي\r\nاما لواء لبنان الشمالي فيقوم موقتا بمهمة\r\nالجوازات فيه الكاتب المعين لذلك في طرابلس"
+        },
+        {
+          "type": "text",
+          "data": "Article 2:\r\nLe Service des Passeports sera assure dans les Munici-\r\npes de Beyrouth et Tripoli et les Sandjaks du Mont-Li-\r\nban, de la Bekaa et du Sud par des commis designes a cet\r\neffet.\r\nDans le Sandjak du Liban-Nord, le Service des Passe-\r\nports sera assure provisoirement par le commis des\r\nPasseports de Tripoli."
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "content": [
+        {
+          "type": "text",
+          "data": "مادة 3:\r\nعلى السكرتير العام ان ينفذ هذا القرار"
+        },
+        {
+          "type": "text",
+          "data": "Article 3:\r\nLe Secretaire General est charge de l'execution du pre-\r\nsent arrete"
+        }
+      ]
+    }
+  ],
+  "signature": "Beyrouth, le 10 janvier 1922\nLe Gouverneur du Grand-Liban\nSigne: TRABAUD"
+}

@@ -1,0 +1,42 @@
+{
+  "url": "http://77.42.251.205/LawView.aspx?opt=view&LawID=170131",
+  "title": "الحدود الادارية لدولة لبنان الكبير",
+  "metadata": {
+    "type": "تعريف النص: قرار",
+    "number": "1040",
+    "date": " 31/12/1921",
+    "oj_number": "1529",
+    "oj_publish_date": "25/01/1922",
+    "oj_page": "4"
+  },
+  "preamble": "",
+  "articles": [
+    {
+      "number": "2 \r\n\tArticle 2: Le Secretaire General, les Mutessarifs des Sandjaks et les Administrateurs des Municipes, sont charges, chacun en ce qui le concerne, de l'execution du present arrete.",
+      "content": [
+        {
+          "type": "text",
+          "data": "Article premier: Les friontieres administratives des differents sandjaks et municipes de l'Etat du Grand-Liban sont fixees ainsi qu'il suit:"
+        },
+        {
+          "type": "text",
+          "data": "Sandjak du Liban Nord: Au Nord, les frontieres de l'Etat; a l'Est, la crete du Liban; au Sud, la limite sud de l'ancien caza de Batroun; a l'Ouest, les limites du Municipe de Tripoli."
+        },
+        {
+          "type": "text",
+          "data": "Municipe de Tripoli: Au Nord, le Nahr-EL-Bared; a l'Est, la ligne de crete du Djebel-Turbol; au sud, la route de Sir et une ligne droite passant par l'ex-ca-racol de la route de Zghorta (1 km de Tripoli), le caracol Abou-Hal- ka et la route de Beyrouth jusqu'a Kalamoun (ce village fait partie du Municipe).\nSandjak du Mont-Liban: Au Nord, les limites sud des mu- diriets de Batroun-Soufla, Batroun-Wousta et Tannourine jusqu'a la ligne de crete du Liban; a l'Est, la ligne des cretes (Djebels muneitri,Sanine, Kneysseh) jusqu'au sommet de 1542 metres (carte 1860), la ligne des pitons au-dessus d'Ain-EL-Ajel (ce village est dans le Mont-Li- ban) et la ligne des cretes des Djebels Barouk et Niba; au Sud, la limite nord du Gaimakamat de Djezzine, jusqu' a la mer; a l'Ouest, le Nahr-Beyrouth et la limite sud Municipe de Beyrouth.\nMunicipe de Beyrouth: A l'Est, le Nahr-Beyrouth; au sud, l'ancien Mont-Liban, passant au nord de Furn el chebak et se rendant a la mer.\nSandjak du Liban Sud: Au Nord, la limite nord du Gaima-kamat de Djezzine, la ligne de crete de Djebel Niha, les limites nord-est de Djebel-El-Rihan et nord de hasbaya;a l'Est et au Sud, les frontieres de l'Etat.\nSandjak de la Bekaa: Au Nord et a l'Est les frontieres de l'Etat; au Sud, les limites nord-est de Djbel-EL-Rihan et nord de Hasbaya; a l'Ouest, la ligne des cretes(Djebels Niha, Barouk, ligne des pitons au dessus d'Ain-El-Ajel), la ligne des cretes du Liban, du sommet de 1542 metres a la frontiere nord de l'Etat."
+        }
+      ]
+    },
+    {
+      "number": "1",
+      "content": [
+        {
+          "type": "text",
+          "data": "Article 2: Le Secretaire General, les Mutessarifs des Sandjaks et les Administrateurs des Municipes, sont charges, chacun en ce qui le concerne, de l'execution du present arrete."
+        }
+      ]
+    }
+  ],
+  "signature": "Beyrouth, le 31 Decembre 1921\nLe Gouverneur du Grand-Liban\nSigne: TRABAUD"
+}

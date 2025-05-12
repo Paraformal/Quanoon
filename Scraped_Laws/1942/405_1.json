@@ -1,0 +1,38 @@
+{
+  "url": "http://77.42.251.205/LawView.aspx?opt=view&LawID=189643",
+  "title": "يتعلق بجميع المقاولات  العائدة لتنفيذ اشغال عمومية",
+  "metadata": {
+    "type": "تعريف النص: مرسوم",
+    "number": "405",
+    "date": " 21/03/1942",
+    "oj_number": "3979",
+    "oj_publish_date": "04/04/1942",
+    "oj_page": "9655"
+  },
+  "preamble": "",
+  "articles": [
+    {
+      "number": "2  - اصدار وزير الاشغال العامة مكلف تنفيذ هذا المرسوم.",
+      "content": [
+        {
+          "type": "text",
+          "data": "ان جميع المقاولات المختصة باجراء اشغال جديدة او بترميمات كبيرة عائدة الى ادارة الاشغال العامة, تخضع لاحكام المواد الاتية, ما لم ينص على العكس في تقويم الاعمال الخاص."
+        }
+      ]
+    },
+    {
+      "number": "1",
+      "content": [
+        {
+          "type": "text",
+          "data": "جميع المقاولات العائدة لتنفيذ اشغال عمومية سواء عقدت بشكل مناقصة عمومية او نتجت عن اتفاقيات حصلت بالتراضي تكون خاضعة لدفتر الاحكام والشروط العامة المربوط بهذا المرسوم (1) عدا الحكم المخالف لها الذي تنص عليه الاتفاقية."
+        },
+        {
+          "type": "text",
+          "data": "Tous les marches relatifs l'execution de travaux publics, qu'ils soient passes dans la forme d'ajudication publique ou qu'il resultent de conventions faites de gres agres, sont soumis aux conditions suivantes, a moins d'une disposition contraire de contrat."
+        }
+      ]
+    }
+  ],
+  "signature": "بيروت  في 21 اذار سنة 1942\nالامضاء: الفرد نقاش\nصدر عن رئيس  الجمهورية\nرئيس  مجلس  الوزراء\nالامضاء: احمد داعوق\nوزير الاشغال العامة\nالامضاء: امين السعد"
+}

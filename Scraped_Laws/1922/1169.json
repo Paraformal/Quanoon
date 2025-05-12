@@ -1,0 +1,43 @@
+{
+  "url": "http://77.42.251.205/LawView.aspx?opt=view&LawID=170147",
+  "title": "اصدار عفو عام",
+  "metadata": {
+    "type": "تعريف النص: قرار",
+    "number": "1169",
+    "date": " 24/02/1922",
+    "oj_number": "1538",
+    "oj_publish_date": "04/03/1922",
+    "oj_page": "0"
+  },
+  "preamble": "",
+  "articles": [
+    {
+      "number": "3 \r\nArticle 3:\r\nLe secretaire General et le directeur de la justice sont\r\ncharges, chacun en ce qui le concerne, de l'execution du\r\npresent arrete.",
+      "content": [
+        {
+          "type": "text",
+          "data": "Article premier:\r\nAmnistie est accordee pour tous crimes et delits politi-\r\nques commis anterieurement au 1er Septembre 1920 sur les\r\nterritoires qui ont forme l'Etat du Grand Liban et rele-\r\nvant de la competence des juridictions de droit commun."
+        }
+      ]
+    },
+    {
+      "number": "1",
+      "content": [
+        {
+          "type": "text",
+          "data": "Article 2:\r\nL'extinction de l'action publique n'entraine pas celle\r\nde l'action civile vis a vis de ceux qui beneficient de\r\nl'amnistie."
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "content": [
+        {
+          "type": "text",
+          "data": "Article 3:\r\nLe secretaire General et le directeur de la justice sont\r\ncharges, chacun en ce qui le concerne, de l'execution du\r\npresent arrete."
+        }
+      ]
+    }
+  ],
+  "signature": "Beyrouth, le 24 Fevrier 1922\nLe Gouverneur du Grand-Liban\nSigne: TRABAUD"
+}

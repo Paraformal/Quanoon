@@ -1,0 +1,43 @@
+{
+  "url": "http://77.42.251.205/LawView.aspx?opt=view&LawID=170798",
+  "title": "منع صيد جميع الطيور وغيرها ما عدا (الفري) والحيوانات\r\nالمضرة في جميع أنحاء لبنان الكبير",
+  "metadata": {
+    "type": "تعريف النص: قرار",
+    "number": "1749",
+    "date": " 10/02/1923",
+    "oj_number": "1636",
+    "oj_publish_date": "16/02/1923",
+    "oj_page": "3"
+  },
+  "preamble": "",
+  "articles": [
+    {
+      "number": "3 \r\nArt III:\r\nLa chasse des petits oiseaux utiles a l'agriculture\r\ndemeure interdite, conformement a l'arrete N 39 du 9\r\noctobre 1920. Les infractions dans cette matiere\r\nserontseverement reprimees.",
+      "content": [
+        {
+          "type": "text",
+          "data": "Art I:\r\nA partir du 15 Fevrier 1923, la chasse est interdite\r\nsur toute l'etendue du grand-liban pour tous les\r\ngibiers, sauf pour la caille et les animaux\r\nnuisibles."
+        }
+      ]
+    },
+    {
+      "number": "1",
+      "content": [
+        {
+          "type": "text",
+          "data": "Art II:\r\nUn arrete ulterieur fixera la date d'ouverture de la\r\nchasse dans les differentes regions du grand-liban."
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "content": [
+        {
+          "type": "text",
+          "data": "Art III:\r\nLa chasse des petits oiseaux utiles a l'agriculture\r\ndemeure interdite, conformement a l'arrete N 39 du 9\r\noctobre 1920. Les infractions dans cette matiere\r\nserontseverement reprimees."
+        }
+      ]
+    }
+  ],
+  "signature": "Beyrouth, le 10 Fevrier 1923,\nLe gouvernement du grand-liban\nSigne: Trabaud"
+}

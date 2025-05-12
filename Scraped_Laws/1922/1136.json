@@ -1,0 +1,43 @@
+{
+  "url": "http://77.42.251.205/LawView.aspx?opt=view&LawID=170144",
+  "title": "تحديد الموظفون والعمال والمستخدمين الذين يحق لهم ببدل سكن",
+  "metadata": {
+    "type": "تعريف النص: قرار",
+    "number": "1136",
+    "date": " 07/02/1922",
+    "oj_number": "1536",
+    "oj_publish_date": "22/02/1922",
+    "oj_page": "0"
+  },
+  "preamble": "",
+  "articles": [
+    {
+      "number": "3 \r\nArticle 3:\r\nLe Secretaire General est charge de l'execution du pre-\r\nsent arrete, qui entre en vigueur a dater du 1er Fevrier\r\n1922.",
+      "content": [
+        {
+          "type": "text",
+          "data": "Article premier:\r\nL'indemnite de residence, prevue a l'art. Il de l'arrete\r\nNo 779 du 31 Aout 1921, n'est accordee qu'aux fonction-\r\nnaires, employes et agents, vises par l'article precite,\r\ndont les traitements ne depassent pas L.S. 50 par mois."
+        }
+      ]
+    },
+    {
+      "number": "1",
+      "content": [
+        {
+          "type": "text",
+          "data": "Article 2:\r\nLes fonctionnaires, employes et agents, dont les traite-\r\nments sont superieurs a L.S 50 par mois et qui recoivent\r\nactuellement l'indemnite de residence, beneficieront\r\nd'une majoration de solde egale a cette indemnite.\r\nLe total de la solde et de l'indemnite sera arrondi a la\r\nlivre syrienne, en ce sens que la fraction superieure a\r\n50 piastres sera consideree comme une livre entiere et\r\nque la fraction egale ou inferieure a 50 piastres sera\r\nnegligee."
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "content": [
+        {
+          "type": "text",
+          "data": "Article 3:\r\nLe Secretaire General est charge de l'execution du pre-\r\nsent arrete, qui entre en vigueur a dater du 1er Fevrier\r\n1922."
+        }
+      ]
+    }
+  ],
+  "signature": "Beyrouth le 7 Fevrier 1922\nLe Gouverneur du Grand-Liban                           ,\nSigne: TRABAUD"
+}

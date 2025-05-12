@@ -1,0 +1,42 @@
+{
+  "url": "http://77.42.251.205/LawView.aspx?opt=view&LawID=243958",
+  "title": "دفع الغرامات  المذكورة بقروش  تركية بقروش  سورية",
+  "metadata": {
+    "type": "تعريف النص: قرار المفوض السامي",
+    "number": "1167",
+    "date": " 20/12/1921",
+    "oj_number": "1525",
+    "oj_publish_date": "07/01/1922",
+    "oj_page": "4"
+  },
+  "preamble": "",
+  "articles": [
+    {
+      "number": "2 \r\nمادة 2:\r\nعلى السكرتير العام ومدير مالية القومسيرية\r\nالعليا ورئيس دائرة العدلية وحاكم لبنان\r\nالكبير والحاكم الاداري لاراضي العلويين\r\nومندوبي القومسيرية العليا في دمشق وحلب\r\nومستشار حكومة لواء اسكندرونه ان ينفذوا -\r\nكل في ما اختص به - احكام هذا القرار\r\nArticle 2:\r\nLe Secretaire General, le Directeur des Finances du Haut\r\nCommissariat, le Chef du Service de la Justice, le Gou-\r\nverneur du Grand-Liban, l'Administrateur du Territoire\r\ndes Alaouites, les Delegues du Haut-Commissaire a Damas\r\net a Alep, le conseiller du Gouvernement du Sandjak\r\nd'Alexandrette, sont charges, chacun en ce qui le con-\r\ncerne de l'execution du present arrete.",
+      "content": [
+        {
+          "type": "text",
+          "data": "مادة 1:\r\nان الغرامات المذكورة بقروش تركية في النصوص\r\nالعثمانية المعمول بها تعين نهائيا بقروش\r\nسورية ابتداء من يوم نشر هذا القرار. ويكون\r\nهذا التحويل الى قروش سورية على معدل اثنين لكل\r\nقرش تركي"
+        },
+        {
+          "type": "text",
+          "data": "Article Premier:\r\nLes amendes exprimees en piastres turques dans les tex-\r\ntes ottomans en vigueur seront a partir du jour de la\r\npromulgation du present arrete definitivement exprimees\r\nen piastres syriennes. Les nouveaux tarifs seront obte-\r\nnus par la transformation en syrienne au moyeu du coef-\r\nficient 2 des tarifs exprimes en piastres turques."
+        }
+      ]
+    },
+    {
+      "number": "1",
+      "content": [
+        {
+          "type": "text",
+          "data": "مادة 2:\r\nعلى السكرتير العام ومدير مالية القومسيرية\r\nالعليا ورئيس دائرة العدلية وحاكم لبنان\r\nالكبير والحاكم الاداري لاراضي العلويين\r\nومندوبي القومسيرية العليا في دمشق وحلب\r\nومستشار حكومة لواء اسكندرونه ان ينفذوا -\r\nكل في ما اختص به - احكام هذا القرار"
+        },
+        {
+          "type": "text",
+          "data": "Article 2:\r\nLe Secretaire General, le Directeur des Finances du Haut\r\nCommissariat, le Chef du Service de la Justice, le Gou-\r\nverneur du Grand-Liban, l'Administrateur du Territoire\r\ndes Alaouites, les Delegues du Haut-Commissaire a Damas\r\net a Alep, le conseiller du Gouvernement du Sandjak\r\nd'Alexandrette, sont charges, chacun en ce qui le con-\r\ncerne de l'execution du present arrete."
+        }
+      ]
+    }
+  ],
+  "signature": "Beyrouth le 20 Decembre 1921\nP.I. Signe\nRobert de Caix"
+}

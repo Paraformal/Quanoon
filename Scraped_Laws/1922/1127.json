@@ -1,0 +1,55 @@
+{
+  "url": "http://77.42.251.205/LawView.aspx?opt=view&LawID=243966",
+  "title": "انشاء لجنة عليا لتحديد سعر الفيالج تحديدا نهائيا",
+  "metadata": {
+    "type": "تعريف النص: قرار",
+    "number": "1127",
+    "date": " 02/02/1922",
+    "oj_number": "1534",
+    "oj_publish_date": "15/02/1922",
+    "oj_page": "0"
+  },
+  "preamble": "",
+  "articles": [
+    {
+      "number": "3 \r\nمادة 3:\r\nعلى سكرتير الحكومة العام تنفيذ مآل هذا القرار\r\nArticle 3:\r\nLe Secretaire General est charge de l'execution du pre-\r\nsent arrete.",
+      "content": [
+        {
+          "type": "text",
+          "data": "مادة 1:\r\nانشاء لجنة علياء لابداء رأيها في تحديد سعر\r\nالفيالج تحديدا نهائيا\r\nان القرار الذي يصدره الحاكم بتحديد سعر\r\nالفيالج يكون مبرما"
+        },
+        {
+          "type": "text",
+          "data": "Article premier:\r\nUne Commission superieure est cree en vue de donner son\r\navis sur la fixation definitive du prix des cocons.\r\nLa decision du Gouverneur portant fixation du prix des\r\ncocons est sans appel."
+        }
+      ]
+    },
+    {
+      "number": "1",
+      "content": [
+        {
+          "type": "text",
+          "data": "مادة 2:\r\nان اللجنة المنصوص عليها في المادة الاولى\r\nتتألف على الوجه الاتي\r\nمدير المالية                 رئيس\r\nمستشار الدوائر الاقتصادية\r\nعضوان من اللجنة الادارية\r\nفي لبنان الكبير               اعضاء\r\nاثنان من ذوي الخبرة او من\r\nتجار الفيالج تنتخبهما\r\nالادارة                       اعضاء\r\nولدى انقسام الاصوات يرجح صوت الرئيس"
+        },
+        {
+          "type": "text",
+          "data": "Article 2:\r\nLa Commission prevue a l'art. 1er est composee ainsi\r\nqu'il suit:\r\nLe Directeur des Finances President\r\nLe Conseiller des Services Economiques, deux membres de\r\nla Commission Administrative du Grand-Liban, deux ex-\r\nperts ou negociants en cocons choisis par l'Administra-\r\ntion, Membres.\r\nEn cas de partage, la voix du president est preponde-\r\nrante."
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "content": [
+        {
+          "type": "text",
+          "data": "مادة 3:\r\nعلى سكرتير الحكومة العام تنفيذ مآل هذا القرار"
+        },
+        {
+          "type": "text",
+          "data": "Article 3:\r\nLe Secretaire General est charge de l'execution du pre-\r\nsent arrete."
+        }
+      ]
+    }
+  ],
+  "signature": "Beyrouth le 2 fevrier 1922\nLe Gouverneur du Grand-Liban,\nSigne: TRABAUD"
+}

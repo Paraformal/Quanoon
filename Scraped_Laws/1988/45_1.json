@@ -1,0 +1,996 @@
+{
+  "url": "http://77.42.251.205/LawView.aspx?opt=view&LawID=243924",
+  "title": "مواد مخدرة",
+  "metadata": {
+    "type": "تعريف النص: قرار",
+    "number": "45",
+    "date": " 18/03/1988",
+    "oj_number": "14",
+    "oj_publish_date": "07/04/1988",
+    "oj_page": "211/216"
+  },
+  "preamble": "ان وزير الصحة والشؤون الاجتماعية,\n- بناء على المرسوم رقم 1736 تاريخ 4/9/1984,\n- بناء على الاتفاقية الدولية الوحيدة الخاصة بالمخدرات ,\nوالمنشورة بالجريدة الرسمية عدد رقم 2 الصادر بتاريخ\n7/1/1965,\n- بناء على قانون مزاولة مهنة الصيدلة الصادر بتاريخ\n31/10/1950,\n- بناء على المرسوم رقم 8377 تاريخ 30/12/1961 (تنظيم وزارة\nالصحة),\n- بناء على اللائحة الصفراء الصادرة عن الهيئة الدولية\nلمراقبة المخدرات - اذار 1986.\n- بناء على قانون المخدرات  الصادر بتاريخ 18 حزيران 1946,\n- بناء على المرسوم رقم 6255 تاريخ 8 أيلول 1954 المتعلق\nبتجارة المخدرات ,\n- بناء على مقتضيات  السلامة والصحة العامتين,\n- وبعد الاطلاع على مطالعة دائرة المخدرات  رقم 135/6 تاريخ\n17/3/1986,\n- وبعد اخذ رأى مصلحة الصيدلة وموافقة مديرية العناية الطبية,\n- وبعد استشارة مجلس  شورى الدولة برأيه رقم 9/88 تاريخ\n23/2/1988,\n- بناء على اقتراح المدير العام للصحة,\nيقرر ما يأتي:",
+  "articles": [
+    {
+      "number": "8  ينشر هذا القرار ويبلغ حيث تدعو الحاجة ويعمل به فور نشره بالجريدة الرسمية.",
+      "content": [
+        {
+          "type": "text",
+          "data": "تعتبر مخدرات  وتطبق عليها النصوص الواردة في قانون المخدرات الصادر بتاريخ 18 حزيران 1946 والمرسوم رقم 6255 تاريخ 8 ايلول 1954:"
+        },
+        {
+          "type": "text",
+          "data": "1- قائمة المخدرات المدرجة في الجدول الاول من الاتفاقية الوحيدة للمخدرات وغير المدرجة في الجدول المرفق في القانون"
+        },
+        {
+          "type": "text",
+          "data": "1- اسيتورفين"
+        },
+        {
+          "type": "text",
+          "data": "1- Acetorphine"
+        },
+        {
+          "type": "text",
+          "data": "2- استيلميتادول"
+        },
+        {
+          "type": "text",
+          "data": "2- Acetylmethadol"
+        },
+        {
+          "type": "text",
+          "data": "3- الفنتانيل"
+        },
+        {
+          "type": "text",
+          "data": "3- Alfentanil"
+        },
+        {
+          "type": "text",
+          "data": "4- اليل برودين"
+        },
+        {
+          "type": "text",
+          "data": "4- Allylprodine"
+        },
+        {
+          "type": "text",
+          "data": "5- الفاستيل ميتادول"
+        },
+        {
+          "type": "text",
+          "data": "5- Alphacetylmethadol"
+        },
+        {
+          "type": "text",
+          "data": "6- الفاميبرودين"
+        },
+        {
+          "type": "text",
+          "data": "6- Alphameprodine"
+        },
+        {
+          "type": "text",
+          "data": "7- الفاميتادول"
+        },
+        {
+          "type": "text",
+          "data": "7- Alphamethadol"
+        },
+        {
+          "type": "text",
+          "data": "8- الفابرودين"
+        },
+        {
+          "type": "text",
+          "data": "8- Alphaprodine"
+        },
+        {
+          "type": "text",
+          "data": "9- انيليردين"
+        },
+        {
+          "type": "text",
+          "data": "9- Anileridine"
+        },
+        {
+          "type": "text",
+          "data": "10- بنزيتدين"
+        },
+        {
+          "type": "text",
+          "data": "10- Benzethedine"
+        },
+        {
+          "type": "text",
+          "data": "11- بيتاستيل ميتادول"
+        },
+        {
+          "type": "text",
+          "data": "11- Betacetylmethadol"
+        },
+        {
+          "type": "text",
+          "data": "12- بيتاميبرودين"
+        },
+        {
+          "type": "text",
+          "data": "12- Betameprodine"
+        },
+        {
+          "type": "text",
+          "data": "13- بيتاميتادول"
+        },
+        {
+          "type": "text",
+          "data": "13- Betamethadol"
+        },
+        {
+          "type": "text",
+          "data": "14- بيتابرودين"
+        },
+        {
+          "type": "text",
+          "data": "14- Betaprodine"
+        },
+        {
+          "type": "text",
+          "data": "15- بزيتراميد"
+        },
+        {
+          "type": "text",
+          "data": "15- Bezitramide"
+        },
+        {
+          "type": "text",
+          "data": "16- الديوكسافتيل بوتيرات"
+        },
+        {
+          "type": "text",
+          "data": "16- Butyrate de dixaphetyl"
+        },
+        {
+          "type": "text",
+          "data": "17- سيتوبميدون"
+        },
+        {
+          "type": "text",
+          "data": "17- Cetodemidone"
+        },
+        {
+          "type": "text",
+          "data": "18- كلونيتازين"
+        },
+        {
+          "type": "text",
+          "data": "18- Clonitazene"
+        },
+        {
+          "type": "text",
+          "data": "19- الكودوكسيم"
+        },
+        {
+          "type": "text",
+          "data": "19- Codoxime"
+        },
+        {
+          "type": "text",
+          "data": "20- مركز قش الخشخاش (وهي المادة الناتجة عن معالجة قش الخشخاش لتركيز مواده شبه القلوية)"
+        },
+        {
+          "type": "text",
+          "data": "20- Concentre de paille pavot (matiere obtenue lorsque la paille de pavot a subit un traitement en vue de la concentration de ses alcaloides)"
+        },
+        {
+          "type": "text",
+          "data": "21- ديزومورفين"
+        },
+        {
+          "type": "text",
+          "data": "21- Desomorphine"
+        },
+        {
+          "type": "text",
+          "data": "22- الديكستروموراميد"
+        },
+        {
+          "type": "text",
+          "data": "22- Dextromoramide"
+        },
+        {
+          "type": "text",
+          "data": "23- ديامبروميد"
+        },
+        {
+          "type": "text",
+          "data": "23- Diampromide"
+        },
+        {
+          "type": "text",
+          "data": "24- دي اتيل تيام بوتين"
+        },
+        {
+          "type": "text",
+          "data": "24- Diethylhiambutene"
+        },
+        {
+          "type": "text",
+          "data": "25- ديفنوكسين"
+        },
+        {
+          "type": "text",
+          "data": "25- Difenoxine"
+        },
+        {
+          "type": "text",
+          "data": "26- ديمنوكسادول"
+        },
+        {
+          "type": "text",
+          "data": "26- Dimenoxadol"
+        },
+        {
+          "type": "text",
+          "data": "27- ديميفبتانول"
+        },
+        {
+          "type": "text",
+          "data": "27- Dimepheptanol"
+        },
+        {
+          "type": "text",
+          "data": "28- ديميتيل تيابوتين"
+        },
+        {
+          "type": "text",
+          "data": "28- Dimethylthiamdutene"
+        },
+        {
+          "type": "text",
+          "data": "29- ديفنوكسيلات"
+        },
+        {
+          "type": "text",
+          "data": "29- Diphenoxylate"
+        },
+        {
+          "type": "text",
+          "data": "30- ديبيبانون"
+        },
+        {
+          "type": "text",
+          "data": "30- Dipipanone"
+        },
+        {
+          "type": "text",
+          "data": "31- دروتببانول"
+        },
+        {
+          "type": "text",
+          "data": "31- Drotedanol"
+        },
+        {
+          "type": "text",
+          "data": "32- اتيل متيل تيامبوتين"
+        },
+        {
+          "type": "text",
+          "data": "23- Ethylmethylthiambutene"
+        },
+        {
+          "type": "text",
+          "data": "33- اتونيتازين"
+        },
+        {
+          "type": "text",
+          "data": "33- Etonitazene"
+        },
+        {
+          "type": "text",
+          "data": "34- اتورفين"
+        },
+        {
+          "type": "text",
+          "data": "34- Etorphine"
+        },
+        {
+          "type": "text",
+          "data": "35- ايتوكسيريدين"
+        },
+        {
+          "type": "text",
+          "data": "35- Etoxeridine"
+        },
+        {
+          "type": "text",
+          "data": "36- فونتانيل"
+        },
+        {
+          "type": "text",
+          "data": "36- Fentanyl"
+        },
+        {
+          "type": "text",
+          "data": "37- فوريتيدين"
+        },
+        {
+          "type": "text",
+          "data": "37- Furethidine"
+        },
+        {
+          "type": "text",
+          "data": "38- الهيدرومورفينول"
+        },
+        {
+          "type": "text",
+          "data": "38- Hydromorphinol"
+        },
+        {
+          "type": "text",
+          "data": "39- الهيدرومورفون"
+        },
+        {
+          "type": "text",
+          "data": "39- Hydromorphone"
+        },
+        {
+          "type": "text",
+          "data": "40- الهيدروكسي بتدين"
+        },
+        {
+          "type": "text",
+          "data": "41- Hydroxypethidine"
+        },
+        {
+          "type": "text",
+          "data": "41- ايزوميتادون"
+        },
+        {
+          "type": "text",
+          "data": "41- Isomethadone"
+        },
+        {
+          "type": "text",
+          "data": "42- ليفوميتورفان"
+        },
+        {
+          "type": "text",
+          "data": "42- Levomethorphane"
+        },
+        {
+          "type": "text",
+          "data": "43- ليفوموراميد"
+        },
+        {
+          "type": "text",
+          "data": "43- Levomoramide"
+        },
+        {
+          "type": "text",
+          "data": "44- ليفوفينا سيلمورفان"
+        },
+        {
+          "type": "text",
+          "data": "44- Levophenacylmorphane"
+        },
+        {
+          "type": "text",
+          "data": "45- ليفورفانول"
+        },
+        {
+          "type": "text",
+          "data": "45- Levorphanol"
+        },
+        {
+          "type": "text",
+          "data": "46- ميتازوسين"
+        },
+        {
+          "type": "text",
+          "data": "46- Metazocine"
+        },
+        {
+          "type": "text",
+          "data": "47- ميتادون"
+        },
+        {
+          "type": "text",
+          "data": "47- Methadone"
+        },
+        {
+          "type": "text",
+          "data": "48- ميتادون وسيط"
+        },
+        {
+          "type": "text",
+          "data": "48- Methadone, intermediaire"
+        },
+        {
+          "type": "text",
+          "data": "49- متيل ديسورفين"
+        },
+        {
+          "type": "text",
+          "data": "49- Methyl desorphine"
+        },
+        {
+          "type": "text",
+          "data": "50- متيل ديهيدرومورفين"
+        },
+        {
+          "type": "text",
+          "data": "50- Methyl dihydromorphine"
+        },
+        {
+          "type": "text",
+          "data": "51- ميتوبون"
+        },
+        {
+          "type": "text",
+          "data": "51- Metopon"
+        },
+        {
+          "type": "text",
+          "data": "52- موراميد وسيط"
+        },
+        {
+          "type": "text",
+          "data": "52- Moramide, intermediaire"
+        },
+        {
+          "type": "text",
+          "data": "53- مورفيريدين"
+        },
+        {
+          "type": "text",
+          "data": "53- Morpheridine d"
+        },
+        {
+          "type": "text",
+          "data": "54- اوكسي مورفين ان"
+        },
+        {
+          "type": "text",
+          "data": "54- N - Oxymophine"
+        },
+        {
+          "type": "text",
+          "data": "55- ميروفين"
+        },
+        {
+          "type": "text",
+          "data": "55- Myrophine"
+        },
+        {
+          "type": "text",
+          "data": "56- نيكومورفين"
+        },
+        {
+          "type": "text",
+          "data": "56- Nicomorphine"
+        },
+        {
+          "type": "text",
+          "data": "57- نوراسيمتادول"
+        },
+        {
+          "type": "text",
+          "data": "57- Noracymethadol"
+        },
+        {
+          "type": "text",
+          "data": "58- نورليفورفانول"
+        },
+        {
+          "type": "text",
+          "data": "58- Norlevorphanol"
+        },
+        {
+          "type": "text",
+          "data": "59- نورميتادون"
+        },
+        {
+          "type": "text",
+          "data": "59- Normethadone"
+        },
+        {
+          "type": "text",
+          "data": "60- نورمورفين"
+        },
+        {
+          "type": "text",
+          "data": "60- Normorphine"
+        },
+        {
+          "type": "text",
+          "data": "61- نوربيبانون"
+        },
+        {
+          "type": "text",
+          "data": "61- Norpipanone"
+        },
+        {
+          "type": "text",
+          "data": "62- اوكسي مورفون"
+        },
+        {
+          "type": "text",
+          "data": "62- Oxymorphone"
+        },
+        {
+          "type": "text",
+          "data": "63- البيتيدين"
+        },
+        {
+          "type": "text",
+          "data": "63- Pethidine"
+        },
+        {
+          "type": "text",
+          "data": "64- وسيط البتيدين أ"
+        },
+        {
+          "type": "text",
+          "data": "64- Pethidine, intermediaire A"
+        },
+        {
+          "type": "text",
+          "data": "65- وسيط البتيدين ب"
+        },
+        {
+          "type": "text",
+          "data": "65- Pethidine, intermediaire B"
+        },
+        {
+          "type": "text",
+          "data": "66- وسيط البتيدين ج"
+        },
+        {
+          "type": "text",
+          "data": "66- Pethidine, intermediaire C"
+        },
+        {
+          "type": "text",
+          "data": "67- فينادوكسون"
+        },
+        {
+          "type": "text",
+          "data": "67- Phenadoxone"
+        },
+        {
+          "type": "text",
+          "data": "68- فينامبروميد"
+        },
+        {
+          "type": "text",
+          "data": "68- Phenampromide"
+        },
+        {
+          "type": "text",
+          "data": "69- فينازوسين"
+        },
+        {
+          "type": "text",
+          "data": "69- Phenazocine"
+        },
+        {
+          "type": "text",
+          "data": "70- فينومورفان"
+        },
+        {
+          "type": "text",
+          "data": "70- Phenomorphane"
+        },
+        {
+          "type": "text",
+          "data": "71- فينوبريدين"
+        },
+        {
+          "type": "text",
+          "data": "71- Phenoperidine"
+        },
+        {
+          "type": "text",
+          "data": "72- بيمينودين"
+        },
+        {
+          "type": "text",
+          "data": "72- Piminodine"
+        },
+        {
+          "type": "text",
+          "data": "73- بيريتراميد"
+        },
+        {
+          "type": "text",
+          "data": "73- Piritramide"
+        },
+        {
+          "type": "text",
+          "data": "74- بروهيبتازين"
+        },
+        {
+          "type": "text",
+          "data": "74- Proheptazine"
+        },
+        {
+          "type": "text",
+          "data": "75- بروبريدين"
+        },
+        {
+          "type": "text",
+          "data": "75- Properidine"
+        },
+        {
+          "type": "text",
+          "data": "76- راسيمتورفان"
+        },
+        {
+          "type": "text",
+          "data": "76- Racemethorphane"
+        },
+        {
+          "type": "text",
+          "data": "77- راسيموراميد"
+        },
+        {
+          "type": "text",
+          "data": "77- Racemoramide"
+        },
+        {
+          "type": "text",
+          "data": "78- راسيمورفان"
+        },
+        {
+          "type": "text",
+          "data": "78- Racemorphane"
+        },
+        {
+          "type": "text",
+          "data": "79- سوفوتانيل"
+        },
+        {
+          "type": "text",
+          "data": "79- Sufentanil"
+        },
+        {
+          "type": "text",
+          "data": "80- تيباكون"
+        },
+        {
+          "type": "text",
+          "data": "80- Thebacone"
+        },
+        {
+          "type": "text",
+          "data": "81- تيبائين"
+        },
+        {
+          "type": "text",
+          "data": "81- Thebaine"
+        },
+        {
+          "type": "text",
+          "data": "82- تيليدين"
+        },
+        {
+          "type": "text",
+          "data": "82- Tilidine"
+        },
+        {
+          "type": "text",
+          "data": "83- تريميبيريدين"
+        },
+        {
+          "type": "text",
+          "data": "83- Trimeperidine"
+        },
+        {
+          "type": "text",
+          "data": "ومتجزئات المخدرات المدرجة في هذا الجدول, ما لم تستبعد صراحة كلما امكن وجود هذه المتجزئات طبقا للتسمية الكيمائية المحددة فيه."
+        },
+        {
+          "type": "text",
+          "data": "واستيرات وايتيرات المخدرات المدرجة في هذا الجدول, كلما امكن وجود هذه الاستيرات والايتيرات ما لم تكن مدرجة في جدول آخر."
+        },
+        {
+          "type": "text",
+          "data": "واملاح المخدرات المدرجة في هذا الجدول, بما فيها املاح الاستيرات والايتيرات والمتجزئات المذكورة اعلاه, كلما أمكن وجود هذه الاملاح."
+        },
+        {
+          "type": "text",
+          "data": "2- قائمة المخدرات المدرجة في الجدول الثاني من الاتفاقية الوحيدة للمخدرات ما عدا المواد الواردة في الجدول المرفق بقانون المخدرات."
+        },
+        {
+          "type": "text",
+          "data": "1- الاستيل ديهيدروكودبين"
+        },
+        {
+          "type": "text",
+          "data": "1- Acetyldihydrocodeine"
+        },
+        {
+          "type": "text",
+          "data": "2- ديكستروبروبوكسفين"
+        },
+        {
+          "type": "text",
+          "data": "2- Dextropropoxyphene"
+        },
+        {
+          "type": "text",
+          "data": "3- ديهيدروكوديين"
+        },
+        {
+          "type": "text",
+          "data": "3- Dihydrocodeine"
+        },
+        {
+          "type": "text",
+          "data": "4- النيكوكوديين"
+        },
+        {
+          "type": "text",
+          "data": "4- Nicocodine"
+        },
+        {
+          "type": "text",
+          "data": "5- النيكوديكودين"
+        },
+        {
+          "type": "text",
+          "data": "5- Nicodicodine"
+        },
+        {
+          "type": "text",
+          "data": "6- النوركوديين"
+        },
+        {
+          "type": "text",
+          "data": "6- Norcodeine"
+        },
+        {
+          "type": "text",
+          "data": "7- الفولكودين"
+        },
+        {
+          "type": "text",
+          "data": "7- Pholcodine"
+        },
+        {
+          "type": "text",
+          "data": "8- البروبيرام"
+        },
+        {
+          "type": "text",
+          "data": "8- Propiram"
+        },
+        {
+          "type": "text",
+          "data": "ومتجزئات المخدرات المدرجة في هذا الجدول ما لم تستبعد صراحة, كلما امكن وجود هذه المتجزئات طبقا للتسمية الكيمائية المحددة فيه."
+        },
+        {
+          "type": "text",
+          "data": "واملاح المخدرات المدرجة في هذا الجدول, بما فيها املاح المتجزئات المذكورة اعلاه, كلما امكن وجود هذه الاملاح."
+        }
+      ]
+    },
+    {
+      "number": "1",
+      "content": [
+        {
+          "type": "text",
+          "data": "يخضع استيراد وتصدير قائمة المستحضرات المدرجة ادناه الى اجازة مسبقة من دائرة المخدرات. اما صرفها فيخضع لوصفة طبية عادية فيما اذا وردت حسب الشرح المذكور ادناه:"
+        },
+        {
+          "type": "text",
+          "data": "أ - المستحضرات:"
+        },
+        {
+          "type": "text",
+          "data": "1- Prepatations des stupefiants suivants:"
+        },
+        {
+          "type": "text",
+          "data": "1- استيل ديهدروكوديين"
+        },
+        {
+          "type": "text",
+          "data": "1- Acetyldihydrocodeine"
+        },
+        {
+          "type": "text",
+          "data": "2- الكوديين"
+        },
+        {
+          "type": "text",
+          "data": "2- Codeine"
+        },
+        {
+          "type": "text",
+          "data": "3- ديهيدروكوديين"
+        },
+        {
+          "type": "text",
+          "data": "3- Dihydrocodeine"
+        },
+        {
+          "type": "text",
+          "data": "4- اتيل مورفين"
+        },
+        {
+          "type": "text",
+          "data": "4- Etylmorphine"
+        },
+        {
+          "type": "text",
+          "data": "5- النكوكودين"
+        },
+        {
+          "type": "text",
+          "data": "5- Nicocodine"
+        },
+        {
+          "type": "text",
+          "data": "6- النيكوديكودين"
+        },
+        {
+          "type": "text",
+          "data": "6- Nicodicodine"
+        },
+        {
+          "type": "text",
+          "data": "7- النوركوديين"
+        },
+        {
+          "type": "text",
+          "data": "7- Norcodeine"
+        },
+        {
+          "type": "text",
+          "data": "8- الفولكودين"
+        },
+        {
+          "type": "text",
+          "data": "8- Pholcodine"
+        },
+        {
+          "type": "text",
+          "data": "- اذا كانت مركبة مع مادة او اكثر واذا كانت كمية المخدر فيها لا تتجاوز 100 ملغ في الوحدة الدوائية الواحدة, وكانت نسبة التركيز لا تتجاوز 2.5 في المئة في المستحضر غير المتجزئة."
+        },
+        {
+          "type": "text",
+          "data": "2- مستحضرات بروبيرام التي لا تتجاوز فيها البروبيرام 100 ملغ في الوحدة الدوائية الواحدة وممزوجة مع كمية مماثلة من متيل سللوز كحد ادنى."
+        },
+        {
+          "type": "text",
+          "data": "3- مستحضرات الدكستروبروبكسفين التي تؤخذ عن طريق الفم والتي لا تتجاوز فيها نسبة الدكستروبروبكسفين 135 ملغ محسوبة على اساس قاعدة الدكستروبكسفين في الوحدة الدوائية الواحدة او اذا كانت نسبة التركيز لا تتجاوز 2.5 في المئة في المستحضرات غير المتجزئة شرط ان لا تحتوي هذه المستحضرات اي مادة  تخضع للقيود المذكورة في اتفاقية المواد النفسية (التخليقية) لعام 1971."
+        },
+        {
+          "type": "text",
+          "data": "4- مستحضرات الكوكايين التي لا تتجاوز نسبة الكوكايين الموجودة فيها 0.1 في المئة محسوبة على اساس قاعدة الكوكايين ومستحضرات الافيون او المورفين, التي لا تتجاوز نسبة المورفين الموجود فيها 0.2 في المئة محسوبا على اساس قاعدة المورفين اللامائي, والمركبة من عنصر او اكثر بطريقة تجعل خطر اساءة استعمالها معدوما او تافها, وبطريقة تحول دون استخلاص المخدر بوسائل سهلة التطبيق او بنسب تعرض الصحة العامة للخطر."
+        },
+        {
+          "type": "text",
+          "data": "5- مستحضرات ديفينوكسين المحتوية بالوحدة الدوائية كمية لا تتجاوز 0.5 ملغ من الديفينوكسين وكمية من سلفات  الاتروبين تعادل ما لا يقل عن 5 بالمئة من كمية الديفينوكسين."
+        },
+        {
+          "type": "text",
+          "data": "6- مستحضرات الديفينوكسيلات التي تحتوي في الوحدة الدوائية كمية لا تتجاوز 2.5 ملغ من الديفينوكسيلات محسوبا كقاعدة وكمية من سلفات الاتروبين تعادل على الاقل واحد بالمئة من وحدة الديفينوكسيلات."
+        },
+        {
+          "type": "text",
+          "data": "7- مركب مسحوق ابيكاك والافيون."
+        },
+        {
+          "type": "text",
+          "data": "10 بالمئة افيون, على شكل مسحوق"
+        },
+        {
+          "type": "text",
+          "data": "10 في المئة جذور ابيكاك مسحوقة وممزوجة جيدا مع 80 بالمئة من اية مادة اخرى مسحوقة لا تحتوي على مخدر."
+        },
+        {
+          "type": "text",
+          "data": "8- مستحضرات تطابق احدى الوصفات المدرجة في هذا الجدول ومزيج هذه المستحضرات بأية مادة تحتوي على مخدر"
+        },
+        {
+          "type": "text",
+          "data": "Lorsque ces preparations contiendront un ou plusieurs autres composants et que la quantite stupefiants n'excedera pas 100 milligrammes par unite de prise et que la concentration ne sera pas superieure a 2.5 pour 100 dans les prepatations de forme non divisee."
+        },
+        {
+          "type": "text",
+          "data": "2- Les preparations a base de propiram ne contenant pas"
+        },
+        {
+          "type": "text",
+          "data": "plus de 100 milligrammes de propiram par unite d'administration et melangees avec une quantite au moins egale de methylcellulose."
+        },
+        {
+          "type": "text",
+          "data": "3- Preparations administrables par voie orale qui ne contiennent pas plus de 135 milligrammes de dase de dextropropoxyhene par unite de prise ou dont la concentration n'excede pas 2,5 pour 100 dans les  preparations de forme non divisee, a condition que ces preparations ne contiennent aucune substance soumise aux mesures de controle prevues dans la Convention de 1971 sur les substances psychatopes."
+        },
+        {
+          "type": "text",
+          "data": "4- Preparations de cocaine renfermant au maximum 0,1 pour 100 de cocaine calculee en cocaine base et preparations d'opium ou de morphine contenant au maximum 0,2 pour 100 de morphine calculee en morphine base andydre, et contenant un ou plusieurs autres composants, de telle maniere que le stupefiant ne puisse etre recupere pas des moyens aisement mis en oeuvre ou dans une proportion qui constituerait un danger pour la sante publique."
+        },
+        {
+          "type": "text",
+          "data": "5- Les preparations de difenoxine contenant, par unite d'administrations, un maximum de 0,5 milligrammes de difenoxine et une quantite de silfate d'atropine egale a 5"
+        },
+        {
+          "type": "text",
+          "data": "pour 100 au minimum de la quantite de difenoxine."
+        },
+        {
+          "type": "text",
+          "data": "6- Preparations de difenoxylate en unite d'administration contenant au maximum 2,5 milligrammes de  iphenoxylate calcute en base et au minimum une quantite de sulfate d'atropine egale a un pour cent de la dose de diphenoxylate"
+        },
+        {
+          "type": "text",
+          "data": "7- Pulvis ipecacuanhae et oplicompositus. 10 pour 100 de poudre d'opiicompositus.10 pour 100 de poudre deracine d'ipecacuanha, bien melangees avec 80 pour 100 d'un autre composant pulverulent non stupefiant."
+        },
+        {
+          "type": "text",
+          "data": "8- Preparations correspondant a  une quelconque des formules enumerees dans le present tableau, et  melanges de ces preparations avec toute substance ne contenant pas de stupefiant."
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "content": [
+        {
+          "type": "text",
+          "data": "تضاف حكما الى الجداول جميع المواد التي يقر ادراجها لاحقا من قبل هيئة مراقبة المخدرات وذلك بعد انقضاء مدة مئة وثمانين يوما على تبلغ قرارات الهيئة. يجاز ادراج اي مادة غير مدرجة دوليا اذا ثبت ان استعمالها يضر بالصحة العامة. كما يجاز تعديل الجداول بنقل مادة من لائحة الى اخرى."
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "content": [
+        {
+          "type": "text",
+          "data": "على الطبيب المسؤول في المستشفيات الخاصة تسجيل المواد المخدرة في السجل اليومي الصادر والوارد والعائد للمخدرات وفقا لطلبات الشراء الشهرية الموقعة من دائرة المخدرات ."
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "content": [
+        {
+          "type": "text",
+          "data": "تبقى موضع التداول الدفاتر الخاصة بالتسجيل اليومي الوارد والصادر من المخدرات والمتداولة في الصيدليات والمستشفيات الخاصة وكذلك دفاتر شراء المخدرات ودفاتر وصفات الاطباء لاحتوائها على الشروط المطلوبة."
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "content": [
+        {
+          "type": "text",
+          "data": "تلغى جميع القرارات المخالفة لهذا القرار."
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "content": [
+        {
+          "type": "text",
+          "data": "يكلف مفتشو الصيدلية تنفيذ مضمون هذا القرار."
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "content": [
+        {
+          "type": "text",
+          "data": "ينشر هذا القرار ويبلغ حيث تدعو الحاجة ويعمل به فور نشره بالجريدة الرسمية."
+        }
+      ]
+    }
+  ],
+  "signature": "بيروت  في: 18 آذار 1988\nوزير الصحة والشؤون الاجتماعية\nجوزف  الهاشم"
+}

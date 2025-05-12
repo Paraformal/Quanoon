@@ -1,0 +1,140 @@
+{
+  "url": "http://77.42.251.205/LawView.aspx?opt=view&LawID=271491",
+  "title": "تعديل جدول «رموز انواع القروض» (CTC 01) المرفق بنظام المصلحة المركزية للمخاطر المصرفية موضوع القرار الاساسي رقم 7705 تاريخ 26/10/2000 .",
+  "metadata": {
+    "type": "تعريف النص: قرار وسيط",
+    "number": "12489",
+    "date": " 17/03/2017",
+    "oj_number": "15",
+    "oj_publish_date": "30/03/2017",
+    "oj_page": "1640-1642"
+  },
+  "preamble": "إن حاكم مصرف لبنان،\nبناء على قانون النقد والتسليف، سيما المادتين 147 و179 منه،\nوبناء على احكام المادة 3 من القانون المنفذ بالمرسوم رقم 5439 تاريخ 20 ايلول 1982،\nوبناء على القرار الاساسي رقم 7705 تاريخ 26/10/2000 المتعلق بنظام المصلحة المركزية للمخاطر المصرفية،\nوبناء على قرار المجلس المركزي لمصرف لبنان المتخذ في جلسته المنعقدة بتاريخ 15/3/2017،\nيقرر ما يأتي:",
+  "articles": [
+    {
+      "number": "4 ينشر هذا القرار في الجريدة الرسمية.",
+      "content": [
+        {
+          "type": "table",
+          "data": [
+            [
+              "n29",
+              "القروض السكنية المتوسطة او الطويلة الأجل الممنوحة بالليرة اللبنانية قبل تاريخ 8/2/2017 والتي تستفيد من حوافز العام 2009 (المادة العاشرة مكرر من القرار الاساسي 7835 تاريخ 2/6/2001)."
+            ],
+            [
+              "P",
+              "القروض السكنية الممنوحة بالليرة اللبنانية قبل تاريخ 8/2/2017 استنادا الى البروتوكول الموقع بين المصارف و \"المؤسسة العامة للإسكان\" (قرار اساسي رقم 7835 تاريخ 2/6/20101)."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "data": [
+            [
+              "Crédits logement en LL à moyen et long terme accordés avant 8/2/2017 bénéficiant des indications offertes en 2009 (art.10 bis de la décision de base No 7835 du 2/6/2001).",
+              "n29"
+            ],
+            [
+              "Crédits logement accordés en LL avant 8/2/2017 suivant le protocole établi entre les banques et l'Office de public de l'Habitat (Décision de base No 7835 du 2/6/2001)",
+              "P"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "number": "1",
+      "content": [
+        {
+          "type": "text",
+          "data": "يضاف الى جدول «رموز انواع القروض» ("
+        },
+        {
+          "type": "text",
+          "data": "CTC01"
+        },
+        {
+          "type": "text",
+          "data": ") باللغتين العربية والفرنسية المرفق بنظام المصلحة المركزية للمخاطر المصرفية موضوع القرار الاساسي رقم 7705 تاريخ 26/10/2000، ما يلي:"
+        },
+        {
+          "type": "table",
+          "data": [
+            [
+              "n27",
+              "القروض السكنية المتوسطة او الطويلة الاجل الممنوحة بالليرة اللبنانية بعد تاريخ 7/2/2017 والتي تستفيد من حوافز العام 2009 (المادة العاشرة مكرر من القرار الاساسي 7835 تاريخ 2/6/2001)."
+            ],
+            [
+              "n27K",
+              "القروض السكنية المتوسطة او الطويلة الاجل الممنوحة بالليرة اللبنانية بع تاريخ 7/2/2017 والتي تستفيد من حوافز العام 2009 (ممولة من مصرف لبنان بموجب القرار الاساسي 6116 تاريخ 7/3/1996)"
+            ],
+            [
+              "p07",
+              "القروض السكنية الممنوحة بالليرة اللبنانية بعد تاريخ 7/2/2017 استنادا الى البروتوكول الموقع بين المصارف و \"المؤسسة العامة للاسكان\" (قرار اساسي رقم 7835 تريخ 2/6/2001)."
+            ],
+            [
+              "P07K",
+              "القروض السكنية الممنوحة بالليرة اللبنانية بعد تاريخ 7/2/2017 استنادا الى البروتوكول الموقع بين المصارف و \"المؤسسة العامة للاسكان\" (ممولة من مصرف لبنان بموجب القرار الاساسي 6116 تاريخ 7/3/1996)"
+            ],
+            [
+              "gb",
+              "القروض السكنية بالليرة اللبنانية الممنوحة استنادا الى بروتوكول التعاون بين المصارف وفوج حرس بلدية بيروت (قرار اساسي رقم 7835 تاريخ 2/6/2001)"
+            ],
+            [
+              "8bk",
+              "القروض السكنية بالليرة اللبنانية الممنوحة استنادا الى بروتوكول التعاون بين المصارف وفوج حرس بلدية بيروت (ممولة من مصرف لبنان بموجب القرار الاساسي 6116 تاريخ 7/3/1996)"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "data": [
+            [
+              "Crédits logement en LL à moyen et long terme accordés après 7/2/2017 bénéficiant des indications offertes en 2009 (art.10 bis de la décision de base No7835 du 2/6/2001).",
+              "n27"
+            ],
+            [
+              "Crédits logement en LL à moyen et long terme accordés après 7/2/2017 bénéficiant des indications offertes en 2009 (Décision de base No.6116 du 7/3/1996)",
+              "n27k"
+            ],
+            [
+              "Crédits logement accordés en LL après 7/2/2017 suivant le protocole établi entre les banques et l'Office Public de l'Habitat (Décision de base No.7835 du 2/6/2001",
+              "p07"
+            ],
+            [
+              "Crédits logement accordés en LL après 7/2/2017 suivant le protocole établi entre les banques et l'Office Public de l'Habitat (Décision de base No.6116 du 7/3/1996",
+              "p07k"
+            ],
+            [
+              "Crédits logement accordés en LL suivant le protocole de coopération entre les banques et le régiment de garde de Beyrouth (Décision de base No.7835 du 2/6/2001",
+              "gb"
+            ],
+            [
+              "Crédits logement accordés en LL suivant le protocole de coopération entre les banques et le régiment de garde de Beyrouth (Décision de base No.6116 du 7/3/1996)",
+              "gbk"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "content": [
+        {
+          "type": "text",
+          "data": "يعمل بهذا القرار فور صدوره."
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "content": [
+        {
+          "type": "text",
+          "data": "ينشر هذا القرار في الجريدة الرسمية."
+        }
+      ]
+    }
+  ],
+  "signature": "بيروت في 17 آذار 2017\nحاكم مصرف لبنان\nرياض توفيق سلامه"
+}
